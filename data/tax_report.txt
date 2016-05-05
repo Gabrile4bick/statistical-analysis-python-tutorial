@@ -1,0 +1,71 @@
+
+code	|	name	|	preferred name	|	taxid
+1	|	Actinomyces johnsonii	|	 	|	544581
+1	|	Actinomyces odontolyticus	|	 	|	1660
+1	|	Agrobacterium tumefaciens	|	 	|	358
+2	|	Alcelaphine herpesvirus	|	Alcelaphine herpesvirus 1	|	35252
+1	|	Anaerococcus prevotii	|	 	|	33034
+1	|	Arcanobacterium haemolyticum	|	 	|	28264
+1	|	Atopobium parvulum	|	 	|	1382
+1	|	Atopobium rimae	|	 	|	1383
+3	|	Bacteroidetes bacterium	|	 	|	 
+1	|	Bordetella pertussis	|	 	|	520
+1	|	Brevundimonas diminuta	|	 	|	293
+1	|	Bulleidia extructa	|	 	|	118748
+1	|	Bulleidia extructa	|	 	|	118748
+1	|	Campylobacter gracilis	|	 	|	824
+1	|	Campylobacter rectus	|	 	|	203
+1	|	Campylobacter showae	|	 	|	204
+1	|	Capnocytophaga ochracea	|	 	|	1018
+1	|	Cryptobacterium curtum	|	 	|	84163
+1	|	Delftia acidovorans	|	 	|	80866
+3	|	Desulfobulbus sp	|	 	|	 
+3	|	Desulfobulbus sp	|	 	|	 
+1	|	Eggerthella lenta	|	 	|	84112
+1	|	Enterococcus faecalis	|	 	|	1351
+1	|	Enterococcus faecalis	|	 	|	1351
+1	|	Eubacterium infirmum	|	[Eubacterium] infirmum	|	56774
+1	|	Klebsiella pneumoniae	|	 	|	573
+3	|	Lachnospiraceae bacterium	|	 	|	 
+3	|	Lachnospiraceae bacterium	|	 	|	 
+2	|	Lactobacillus catenaforme	|	Eggerthia catenaformis	|	31973
+1	|	Lactobacillus reuteri	|	 	|	1598
+1	|	Leptotrichia buccalis	|	 	|	40542
+1	|	Leptotrichia buccalis	|	 	|	40542
+3	|	Leptotrichia oral	|	 	|	 
+1	|	Mitsuokella multacida	|	 	|	52226
+1	|	Mycoplasma genitalium	|	 	|	2097
+1	|	Mycoplasma pneumoniae	|	 	|	2104
+1	|	Neisseria elongata	|	 	|	495
+1	|	Olsenella uli	|	 	|	133926
+1	|	Peptostreptococcus stomatis	|	 	|	341694
+3	|	Porphyromonas sp	|	 	|	 
+1	|	Prevotella maculosa	|	 	|	439703
+1	|	Prevotella saccharolytica	|	 	|	633701
+3	|	Prevotella scopus	|	 	|	 
+3	|	Prevotella sp	|	 	|	 
+1	|	Pseudomonas stutzeri	|	 	|	316
+1	|	Pyramidobacter piscolens	|	 	|	638849
+1	|	Pyramidobacter piscolens	|	 	|	638849
+1	|	Pyramidobacter piscolens	|	 	|	638849
+1	|	Scardovia inopinata	|	 	|	78259
+3	|	Selenomonas sp	|	 	|	 
+3	|	Selenomonas sp	|	 	|	 
+1	|	Shuttleworthia satelles	|	 	|	177972
+1	|	Solobacterium moorei	|	 	|	102148
+1	|	Staphylococcus epidermidis	|	 	|	1282
+1	|	Streptococcus gordonii	|	 	|	1302
+1	|	Streptococcus mitis	|	 	|	28037
+1	|	Streptococcus mutans	|	 	|	1309
+1	|	Streptococcus oralis	|	 	|	1303
+1	|	Streptococcus parasanguinis	|	 	|	1318
+3	|	Streptococcus sp	|	 	|	 
+3	|	Streptococcus sp	|	 	|	 
+3	|	Streptococcus sp	|	 	|	 
+3	|	Streptococcus sp	|	 	|	 
+1	|	Tannerella forsythia	|	 	|	28112
+1	|	Tannerella forsythia	|	 	|	28112
+1	|	Treponema denticola	|	 	|	158
+1	|	Treponema lecithinolyticum	|	 	|	53418
+1	|	Veillonella parvula	|	 	|	29466
+1	|	Yersinia pestis	|	 	|	632

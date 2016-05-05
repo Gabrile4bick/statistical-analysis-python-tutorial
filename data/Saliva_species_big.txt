@@ -1,0 +1,2311 @@
+TaxName	species	Abundance_per_rank_RawFile	SampleCategory	RawFile
+Rothia mucilaginosa	43675	1218.49303	Caries	Caries-E01
+Prevotella histicola	470565	826.41872	Caries	Caries-E01
+Veillonella atypica	39777	645.6668	Caries	Caries-E01
+Haemophilus parainfluenzae	729	603.44515	Caries	Caries-E01
+Streptococcus salivarius	1304	573.52379	Caries	Caries-E01
+Prevotella melaninogenica	28132	529.46865	Caries	Caries-E01
+Veillonella dispar	39778	424.16449	Caries	Caries-E01
+Prevotella pallens	60133	371.08262	Caries	Caries-E01
+Streptococcus parasanguinis	1318	346.66744	Caries	Caries-E01
+Prevotella sp. oral taxon 473	712469	343.95969	Caries	Caries-E01
+Stomatobaculum longum	796942	318.16371	Caries	Caries-E01
+Neisseria mucosa	488	280.0	Caries	Caries-E01
+Streptococcus mitis	28037	275.90164	Caries	Caries-E01
+Actinomyces graevenitzii	55565	259.23162	Caries	Caries-E01
+Veillonella sp. oral taxon 158	671228	246.85161	Caries	Caries-E01
+Leptotrichia wadei	157687	217.20073	Caries	Caries-E01
+Fusobacterium periodonticum	860	182.00096	Caries	Caries-E01
+Porphyromonas sp. oral taxon 279	712438	181.82419	Caries	Caries-E01
+Actinomyces sp. oral taxon 172	712118	170.37968	Caries	Caries-E01
+Leptotrichia sp. oral taxon 215	712359	160.0	Caries	Caries-E01
+Streptococcus infantis	68892	146.59259	Caries	Caries-E01
+Gemella sanguinis	84135	142.19271	Caries	Caries-E01
+Oribacterium sinus	237576	128.28716	Caries	Caries-E01
+candidate division TM7 single-cell isolate TM7a	447454	125.37832	Caries	Caries-E01
+Corynebacterium matruchotii	43768	100.0	Caries	Caries-E01
+Megasphaera micronuciformis	187326	97.05426	Caries	Caries-E01
+Actinomyces odontolyticus	1660	88.54155	Caries	Caries-E01
+Lachnospiraceae bacterium oral taxon 082	712976	88.00665	Caries	Caries-E01
+Leptotrichia shahii	157691	82.45984	Caries	Caries-E01
+Neisseria subflava	28449	80.0	Caries	Caries-E01
+Selenomonas sp. oral taxon 149	712535	67.25051	Caries	Caries-E01
+Peptostreptococcus stomatis	341694	63.31453	Caries	Caries-E01
+Fusobacterium nucleatum	851	61.78645	Caries	Caries-E01
+Tannerella sp. oral taxon BU063	712710	60.0	Caries	Caries-E01
+Prevotella scopos	589437	56.48844	Caries	Caries-E01
+Leptotrichia buccalis	40542	45.6638	Caries	Caries-E01
+Selenomonas sputigena	69823	45.62382	Caries	Caries-E01
+Atopobium parvulum	1382	43.29594	Caries	Caries-E01
+Prevotella buccalis	28127	43.13447	Caries	Caries-E01
+Granulicatella adiacens	46124	41.25312	Caries	Caries-E01
+Polynucleobacter necessarius	576610	40.8559	Caries	Caries-E01
+Streptococcus australis	113107	40.82512	Caries	Caries-E01
+Porphyromonas gingivalis	837	40.0	Caries	Caries-E01
+Gemella haemolysans	1379	40.0	Caries	Caries-E01
+Lachnoanaerobaculum saburreum	467210	40.0	Caries	Caries-E01
+Prevotella sp. oral taxon 306	712461	27.07885	Caries	Caries-E01
+Selenomonas flueggei	135080	26.17704	Caries	Caries-E01
+Streptococcus oligofermentans	195041	25.52916	Caries	Caries-E01
+Prevotella oris	28135	25.22988	Caries	Caries-E01
+Streptococcus gordonii	1302	24.73628	Caries	Caries-E01
+Prevotella sp. oral taxon 299	652716	24.50404	Caries	Caries-E01
+Prevotella veroralis	28137	23.81499	Caries	Caries-E01
+Veillonella parvula	29466	23.54798	Caries	Caries-E01
+Prevotella salivae	228604	23.42896	Caries	Caries-E01
+Prevotella baroniae	305719	23.32095	Caries	Caries-E01
+Actinomyces massiliensis	461393	22.50344	Caries	Caries-E01
+Prevotella multisaccharivorax	310514	20.88766	Caries	Caries-E01
+Neisseria meningitidis	487	20.0	Caries	Caries-E01
+Filifactor alocis	143361	20.0	Caries	Caries-E01
+Campylobacter concisus	199	20.0	Caries	Caries-E01
+Abiotrophia defectiva	46125	20.0	Caries	Caries-E01
+Alloprevotella tannerae	76122	20.0	Caries	Caries-E01
+Leptotrichia goodfellowii	157692	20.0	Caries	Caries-E01
+Actinomyces sp. oral taxon 180	651609	20.0	Caries	Caries-E01
+Streptococcus cristatus	45634	20.0	Caries	Caries-E01
+Lachnospiraceae bacterium oral taxon 500	712991	20.0	Caries	Caries-E01
+Capnocytophaga sp. oral taxon 329	706435	20.0	Caries	Caries-E01
+Prevotella nigrescens	28133	20.0	Caries	Caries-E01
+Aggregatibacter aphrophilus	732	20.0	Caries	Caries-E01
+Alloprevotella rava	671218	20.0	Caries	Caries-E01
+Fusobacterium sp. oral taxon 370	712288	20.0	Caries	Caries-E01
+Selenomonas sp. oral taxon 138	712532	20.0	Caries	Caries-E01
+Prevotella saccharolytica	633701	20.0	Caries	Caries-E01
+Bacteroides pyogenes	310300	20.0	Caries	Caries-E01
+Actinomyces timonensis	1288391	20.0	Caries	Caries-E01
+Mycoplasma salivarium	2124	20.0	Caries	Caries-E01
+Mycoplasma mycoides	2102	20.0	Caries	Caries-E01
+Rothia mucilaginosa	43675	1304.75406	Caries	Caries-E02
+Prevotella histicola	470565	761.77723	Caries	Caries-E02
+Veillonella atypica	39777	634.04416	Caries	Caries-E02
+Haemophilus parainfluenzae	729	609.73748	Caries	Caries-E02
+Streptococcus salivarius	1304	568.91629	Caries	Caries-E02
+Prevotella melaninogenica	28132	518.72041	Caries	Caries-E02
+Veillonella dispar	39778	430.01066	Caries	Caries-E02
+Prevotella pallens	60133	368.41976	Caries	Caries-E02
+Prevotella sp. oral taxon 473	712469	347.43913	Caries	Caries-E02
+Streptococcus parasanguinis	1318	333.07708	Caries	Caries-E02
+Stomatobaculum longum	796942	314.74767	Caries	Caries-E02
+Neisseria mucosa	488	290.5255	Caries	Caries-E02
+Actinomyces graevenitzii	55565	283.00466	Caries	Caries-E02
+Streptococcus mitis	28037	276.45266	Caries	Caries-E02
+Veillonella sp. oral taxon 158	671228	242.83849	Caries	Caries-E02
+Leptotrichia wadei	157687	230.11052	Caries	Caries-E02
+Actinomyces sp. oral taxon 172	712118	191.1153	Caries	Caries-E02
+Porphyromonas sp. oral taxon 279	712438	184.97535	Caries	Caries-E02
+Fusobacterium periodonticum	860	182.17744	Caries	Caries-E02
+Leptotrichia sp. oral taxon 215	712359	162.69481	Caries	Caries-E02
+Streptococcus infantis	68892	160.74041	Caries	Caries-E02
+Gemella sanguinis	84135	145.75001	Caries	Caries-E02
+candidate division TM7 single-cell isolate TM7a	447454	130.61999	Caries	Caries-E02
+Oribacterium sinus	237576	125.06279	Caries	Caries-E02
+Corynebacterium matruchotii	43768	112.01302	Caries	Caries-E02
+Actinomyces odontolyticus	1660	102.87098	Caries	Caries-E02
+Megasphaera micronuciformis	187326	93.08817	Caries	Caries-E02
+Neisseria subflava	28449	92.1518	Caries	Caries-E02
+Leptotrichia shahii	157691	88.55733	Caries	Caries-E02
+Lachnospiraceae bacterium oral taxon 082	712976	87.99701	Caries	Caries-E02
+Selenomonas sp. oral taxon 149	712535	69.14861	Caries	Caries-E02
+Fusobacterium nucleatum	851	62.59072	Caries	Caries-E02
+Peptostreptococcus stomatis	341694	62.16739	Caries	Caries-E02
+Tannerella sp. oral taxon BU063	712710	60.0	Caries	Caries-E02
+Prevotella scopos	589437	53.39796	Caries	Caries-E02
+Streptococcus australis	113107	49.47529	Caries	Caries-E02
+Leptotrichia buccalis	40542	47.04194	Caries	Caries-E02
+Granulicatella adiacens	46124	45.41135	Caries	Caries-E02
+Atopobium parvulum	1382	45.12123	Caries	Caries-E02
+Prevotella buccalis	28127	43.36885	Caries	Caries-E02
+Porphyromonas gingivalis	837	40.0	Caries	Caries-E02
+Gemella haemolysans	1379	40.0	Caries	Caries-E02
+Selenomonas sputigena	69823	40.0	Caries	Caries-E02
+Lachnoanaerobaculum saburreum	467210	40.0	Caries	Caries-E02
+Polynucleobacter necessarius	576610	40.0	Caries	Caries-E02
+Selenomonas flueggei	135080	25.46498	Caries	Caries-E02
+Prevotella sp. oral taxon 299	652716	25.4196	Caries	Caries-E02
+Streptococcus oligofermentans	195041	25.37194	Caries	Caries-E02
+Prevotella sp. oral taxon 306	712461	24.61519	Caries	Caries-E02
+Aggregatibacter aphrophilus	732	23.76168	Caries	Caries-E02
+Bacteroides pyogenes	310300	23.22231	Caries	Caries-E02
+Prevotella veroralis	28137	22.58862	Caries	Caries-E02
+Mycoplasma mycoides	2102	22.15056	Caries	Caries-E02
+Prevotella oris	28135	21.95512	Caries	Caries-E02
+Prevotella salivae	228604	21.94028	Caries	Caries-E02
+Actinomyces sp. oral taxon 180	651609	21.72653	Caries	Caries-E02
+Neisseria meningitidis	487	20.0	Caries	Caries-E02
+Streptococcus gordonii	1302	20.0	Caries	Caries-E02
+Veillonella parvula	29466	20.0	Caries	Caries-E02
+Filifactor alocis	143361	20.0	Caries	Caries-E02
+Campylobacter concisus	199	20.0	Caries	Caries-E02
+Abiotrophia defectiva	46125	20.0	Caries	Caries-E02
+Alloprevotella tannerae	76122	20.0	Caries	Caries-E02
+Leptotrichia goodfellowii	157692	20.0	Caries	Caries-E02
+Streptococcus cristatus	45634	20.0	Caries	Caries-E02
+Lachnospiraceae bacterium oral taxon 500	712991	20.0	Caries	Caries-E02
+Capnocytophaga sp. oral taxon 329	706435	20.0	Caries	Caries-E02
+Prevotella nigrescens	28133	20.0	Caries	Caries-E02
+Alloprevotella rava	671218	20.0	Caries	Caries-E02
+Fusobacterium sp. oral taxon 370	712288	20.0	Caries	Caries-E02
+Actinomyces massiliensis	461393	20.0	Caries	Caries-E02
+Selenomonas sp. oral taxon 138	712532	20.0	Caries	Caries-E02
+Prevotella saccharolytica	633701	20.0	Caries	Caries-E02
+Prevotella baroniae	305719	20.0	Caries	Caries-E02
+Actinomyces timonensis	1288391	20.0	Caries	Caries-E02
+Mycoplasma salivarium	2124	20.0	Caries	Caries-E02
+Prevotella multisaccharivorax	310514	20.0	Caries	Caries-E02
+Rothia mucilaginosa	43675	1259.11473	Caries	Caries-E03
+Prevotella histicola	470565	691.40164	Caries	Caries-E03
+Haemophilus parainfluenzae	729	610.40187	Caries	Caries-E03
+Veillonella atypica	39777	593.52755	Caries	Caries-E03
+Streptococcus salivarius	1304	538.9155	Caries	Caries-E03
+Prevotella melaninogenica	28132	520.45326	Caries	Caries-E03
+Veillonella dispar	39778	406.99784	Caries	Caries-E03
+Prevotella pallens	60133	365.62936	Caries	Caries-E03
+Prevotella sp. oral taxon 473	712469	351.44658	Caries	Caries-E03
+Streptococcus parasanguinis	1318	333.34245	Caries	Caries-E03
+Stomatobaculum longum	796942	314.21753	Caries	Caries-E03
+Neisseria mucosa	488	284.61231	Caries	Caries-E03
+Streptococcus mitis	28037	277.56316	Caries	Caries-E03
+Actinomyces graevenitzii	55565	257.40833	Caries	Caries-E03
+Veillonella sp. oral taxon 158	671228	235.7203	Caries	Caries-E03
+Leptotrichia wadei	157687	219.37713	Caries	Caries-E03
+Fusobacterium periodonticum	860	191.06398	Caries	Caries-E03
+Porphyromonas sp. oral taxon 279	712438	181.95981	Caries	Caries-E03
+Actinomyces sp. oral taxon 172	712118	176.59972	Caries	Caries-E03
+Leptotrichia sp. oral taxon 215	712359	160.0	Caries	Caries-E03
+Gemella sanguinis	84135	146.03036	Caries	Caries-E03
+Streptococcus infantis	68892	144.57457	Caries	Caries-E03
+Oribacterium sinus	237576	130.34454	Caries	Caries-E03
+candidate division TM7 single-cell isolate TM7a	447454	125.29612	Caries	Caries-E03
+Corynebacterium matruchotii	43768	100.0	Caries	Caries-E03
+Neisseria subflava	28449	92.94359	Caries	Caries-E03
+Actinomyces odontolyticus	1660	91.22159	Caries	Caries-E03
+Leptotrichia shahii	157691	87.82368	Caries	Caries-E03
+Lachnospiraceae bacterium oral taxon 082	712976	85.99108	Caries	Caries-E03
+Megasphaera micronuciformis	187326	85.83619	Caries	Caries-E03
+Selenomonas sp. oral taxon 149	712535	68.5673	Caries	Caries-E03
+Fusobacterium nucleatum	851	64.17117	Caries	Caries-E03
+Peptostreptococcus stomatis	341694	62.65542	Caries	Caries-E03
+Tannerella sp. oral taxon BU063	712710	60.0	Caries	Caries-E03
+Prevotella scopos	589437	48.19255	Caries	Caries-E03
+Selenomonas sputigena	69823	45.67892	Caries	Caries-E03
+Leptotrichia buccalis	40542	45.58815	Caries	Caries-E03
+Streptococcus australis	113107	44.65918	Caries	Caries-E03
+Granulicatella adiacens	46124	44.05333	Caries	Caries-E03
+Atopobium parvulum	1382	43.55814	Caries	Caries-E03
+Porphyromonas gingivalis	837	40.0	Caries	Caries-E03
+Gemella haemolysans	1379	40.0	Caries	Caries-E03
+Prevotella buccalis	28127	40.0	Caries	Caries-E03
+Lachnoanaerobaculum saburreum	467210	40.0	Caries	Caries-E03
+Polynucleobacter necessarius	576610	40.0	Caries	Caries-E03
+Abiotrophia defectiva	46125	27.30563	Caries	Caries-E03
+Selenomonas flueggei	135080	26.47278	Caries	Caries-E03
+Prevotella sp. oral taxon 299	652716	25.36971	Caries	Caries-E03
+Streptococcus oligofermentans	195041	25.23609	Caries	Caries-E03
+Prevotella veroralis	28137	23.40899	Caries	Caries-E03
+Streptococcus gordonii	1302	23.04592	Caries	Caries-E03
+Alloprevotella tannerae	76122	22.67394	Caries	Caries-E03
+Veillonella parvula	29466	21.74984	Caries	Caries-E03
+Leptotrichia goodfellowii	157692	21.7303	Caries	Caries-E03
+Actinomyces sp. oral taxon 180	651609	21.53398	Caries	Caries-E03
+Prevotella salivae	228604	20.248	Caries	Caries-E03
+Neisseria meningitidis	487	20.0	Caries	Caries-E03
+Filifactor alocis	143361	20.0	Caries	Caries-E03
+Campylobacter concisus	199	20.0	Caries	Caries-E03
+Prevotella oris	28135	20.0	Caries	Caries-E03
+Streptococcus cristatus	45634	20.0	Caries	Caries-E03
+Lachnospiraceae bacterium oral taxon 500	712991	20.0	Caries	Caries-E03
+Capnocytophaga sp. oral taxon 329	706435	20.0	Caries	Caries-E03
+Prevotella nigrescens	28133	20.0	Caries	Caries-E03
+Alloprevotella rava	671218	20.0	Caries	Caries-E03
+Fusobacterium sp. oral taxon 370	712288	20.0	Caries	Caries-E03
+Prevotella sp. oral taxon 306	712461	20.0	Caries	Caries-E03
+Actinomyces massiliensis	461393	20.0	Caries	Caries-E03
+Selenomonas sp. oral taxon 138	712532	20.0	Caries	Caries-E03
+Prevotella saccharolytica	633701	20.0	Caries	Caries-E03
+Bacteroides pyogenes	310300	20.0	Caries	Caries-E03
+Prevotella baroniae	305719	20.0	Caries	Caries-E03
+Actinomyces timonensis	1288391	20.0	Caries	Caries-E03
+Mycoplasma salivarium	2124	20.0	Caries	Caries-E03
+Prevotella multisaccharivorax	310514	20.0	Caries	Caries-E03
+Mycoplasma mycoides	2102	20.0	Caries	Caries-E03
+Aggregatibacter aphrophilus	732	19.19101	Caries	Caries-E03
+Rothia mucilaginosa	43675	1356.81931	Caries	Caries-E04
+Prevotella histicola	470565	796.70146	Caries	Caries-E04
+Veillonella atypica	39777	661.64893	Caries	Caries-E04
+Haemophilus parainfluenzae	729	622.59242	Caries	Caries-E04
+Streptococcus salivarius	1304	585.80652	Caries	Caries-E04
+Prevotella melaninogenica	28132	520.83349	Caries	Caries-E04
+Veillonella dispar	39778	442.30034	Caries	Caries-E04
+Prevotella pallens	60133	369.20462	Caries	Caries-E04
+Streptococcus parasanguinis	1318	354.22869	Caries	Caries-E04
+Prevotella sp. oral taxon 473	712469	341.8747	Caries	Caries-E04
+Stomatobaculum longum	796942	312.76093	Caries	Caries-E04
+Neisseria mucosa	488	284.25664	Caries	Caries-E04
+Streptococcus mitis	28037	282.31276	Caries	Caries-E04
+Actinomyces graevenitzii	55565	280.72904	Caries	Caries-E04
+Veillonella sp. oral taxon 158	671228	249.14043	Caries	Caries-E04
+Leptotrichia wadei	157687	205.99404	Caries	Caries-E04
+Fusobacterium periodonticum	860	180.0	Caries	Caries-E04
+Porphyromonas sp. oral taxon 279	712438	180.0	Caries	Caries-E04
+Actinomyces sp. oral taxon 172	712118	170.0072	Caries	Caries-E04
+Leptotrichia sp. oral taxon 215	712359	163.06066	Caries	Caries-E04
+Streptococcus infantis	68892	150.54649	Caries	Caries-E04
+Gemella sanguinis	84135	144.66651	Caries	Caries-E04
+Oribacterium sinus	237576	137.99834	Caries	Caries-E04
+candidate division TM7 single-cell isolate TM7a	447454	126.77026	Caries	Caries-E04
+Corynebacterium matruchotii	43768	107.00162	Caries	Caries-E04
+Actinomyces odontolyticus	1660	97.15072	Caries	Caries-E04
+Megasphaera micronuciformis	187326	94.16594	Caries	Caries-E04
+Lachnospiraceae bacterium oral taxon 082	712976	86.39766	Caries	Caries-E04
+Neisseria subflava	28449	80.0	Caries	Caries-E04
+Leptotrichia shahii	157691	80.0	Caries	Caries-E04
+Selenomonas sp. oral taxon 149	712535	67.61506	Caries	Caries-E04
+Fusobacterium nucleatum	851	60.0	Caries	Caries-E04
+Peptostreptococcus stomatis	341694	60.0	Caries	Caries-E04
+Tannerella sp. oral taxon BU063	712710	60.0	Caries	Caries-E04
+Prevotella scopos	589437	55.68355	Caries	Caries-E04
+Streptococcus australis	113107	49.0099	Caries	Caries-E04
+Selenomonas sputigena	69823	47.32267	Caries	Caries-E04
+Leptotrichia buccalis	40542	45.91785	Caries	Caries-E04
+Atopobium parvulum	1382	45.67502	Caries	Caries-E04
+Granulicatella adiacens	46124	45.65225	Caries	Caries-E04
+Prevotella buccalis	28127	42.55212	Caries	Caries-E04
+Porphyromonas gingivalis	837	40.0	Caries	Caries-E04
+Gemella haemolysans	1379	40.0	Caries	Caries-E04
+Lachnoanaerobaculum saburreum	467210	40.0	Caries	Caries-E04
+Polynucleobacter necessarius	576610	40.0	Caries	Caries-E04
+Prevotella sp. oral taxon 306	712461	26.60598	Caries	Caries-E04
+Streptococcus oligofermentans	195041	26.09993	Caries	Caries-E04
+Selenomonas flueggei	135080	25.797	Caries	Caries-E04
+Abiotrophia defectiva	46125	24.83467	Caries	Caries-E04
+Prevotella oris	28135	24.44979	Caries	Caries-E04
+Prevotella sp. oral taxon 299	652716	24.22136	Caries	Caries-E04
+Alloprevotella tannerae	76122	24.18628	Caries	Caries-E04
+Streptococcus cristatus	45634	24.05756	Caries	Caries-E04
+Prevotella veroralis	28137	23.47744	Caries	Caries-E04
+Streptococcus gordonii	1302	22.95599	Caries	Caries-E04
+Prevotella salivae	228604	22.89438	Caries	Caries-E04
+Lachnospiraceae bacterium oral taxon 500	712991	22.73382	Caries	Caries-E04
+Actinomyces sp. oral taxon 180	651609	21.74709	Caries	Caries-E04
+Leptotrichia goodfellowii	157692	21.71278	Caries	Caries-E04
+Neisseria meningitidis	487	20.0	Caries	Caries-E04
+Veillonella parvula	29466	20.0	Caries	Caries-E04
+Filifactor alocis	143361	20.0	Caries	Caries-E04
+Campylobacter concisus	199	20.0	Caries	Caries-E04
+Capnocytophaga sp. oral taxon 329	706435	20.0	Caries	Caries-E04
+Prevotella nigrescens	28133	20.0	Caries	Caries-E04
+Aggregatibacter aphrophilus	732	20.0	Caries	Caries-E04
+Alloprevotella rava	671218	20.0	Caries	Caries-E04
+Fusobacterium sp. oral taxon 370	712288	20.0	Caries	Caries-E04
+Actinomyces massiliensis	461393	20.0	Caries	Caries-E04
+Selenomonas sp. oral taxon 138	712532	20.0	Caries	Caries-E04
+Prevotella saccharolytica	633701	20.0	Caries	Caries-E04
+Bacteroides pyogenes	310300	20.0	Caries	Caries-E04
+Prevotella baroniae	305719	20.0	Caries	Caries-E04
+Actinomyces timonensis	1288391	20.0	Caries	Caries-E04
+Mycoplasma salivarium	2124	20.0	Caries	Caries-E04
+Prevotella multisaccharivorax	310514	20.0	Caries	Caries-E04
+Mycoplasma mycoides	2102	20.0	Caries	Caries-E04
+Rothia mucilaginosa	43675	1347.82667	Caries	Caries-E05
+Prevotella histicola	470565	657.27738	Caries	Caries-E05
+Haemophilus parainfluenzae	729	612.97403	Caries	Caries-E05
+Veillonella atypica	39777	543.36496	Caries	Caries-E05
+Streptococcus salivarius	1304	532.60474	Caries	Caries-E05
+Prevotella melaninogenica	28132	469.72084	Caries	Caries-E05
+Veillonella dispar	39778	374.83623	Caries	Caries-E05
+Prevotella pallens	60133	360.0	Caries	Caries-E05
+Prevotella sp. oral taxon 473	712469	340.0	Caries	Caries-E05
+Streptococcus parasanguinis	1318	327.84213	Caries	Caries-E05
+Stomatobaculum longum	796942	306.51756	Caries	Caries-E05
+Neisseria mucosa	488	283.32128	Caries	Caries-E05
+Streptococcus mitis	28037	280.23047	Caries	Caries-E05
+Actinomyces graevenitzii	55565	242.62674	Caries	Caries-E05
+Veillonella sp. oral taxon 158	671228	229.8063	Caries	Caries-E05
+Leptotrichia wadei	157687	206.29368	Caries	Caries-E05
+Porphyromonas sp. oral taxon 279	712438	183.48284	Caries	Caries-E05
+Fusobacterium periodonticum	860	180.0	Caries	Caries-E05
+Actinomyces sp. oral taxon 172	712118	164.66184	Caries	Caries-E05
+Leptotrichia sp. oral taxon 215	712359	160.0	Caries	Caries-E05
+Streptococcus infantis	68892	143.60416	Caries	Caries-E05
+Gemella sanguinis	84135	141.50907	Caries	Caries-E05
+candidate division TM7 single-cell isolate TM7a	447454	126.88529	Caries	Caries-E05
+Oribacterium sinus	237576	122.25846	Caries	Caries-E05
+Corynebacterium matruchotii	43768	100.0	Caries	Caries-E05
+Neisseria subflava	28449	87.40138	Caries	Caries-E05
+Actinomyces odontolyticus	1660	84.45659	Caries	Caries-E05
+Lachnospiraceae bacterium oral taxon 082	712976	82.0264	Caries	Caries-E05
+Megasphaera micronuciformis	187326	80.0	Caries	Caries-E05
+Leptotrichia shahii	157691	80.0	Caries	Caries-E05
+Fusobacterium nucleatum	851	60.0	Caries	Caries-E05
+Selenomonas sp. oral taxon 149	712535	60.0	Caries	Caries-E05
+Peptostreptococcus stomatis	341694	60.0	Caries	Caries-E05
+Tannerella sp. oral taxon BU063	712710	60.0	Caries	Caries-E05
+Streptococcus australis	113107	47.84254	Caries	Caries-E05
+Prevotella scopos	589437	45.77408	Caries	Caries-E05
+Selenomonas sputigena	69823	45.27305	Caries	Caries-E05
+Leptotrichia buccalis	40542	44.59811	Caries	Caries-E05
+Granulicatella adiacens	46124	43.5694	Caries	Caries-E05
+Gemella haemolysans	1379	42.87459	Caries	Caries-E05
+Porphyromonas gingivalis	837	40.0	Caries	Caries-E05
+Atopobium parvulum	1382	40.0	Caries	Caries-E05
+Prevotella buccalis	28127	40.0	Caries	Caries-E05
+Lachnoanaerobaculum saburreum	467210	40.0	Caries	Caries-E05
+Polynucleobacter necessarius	576610	40.0	Caries	Caries-E05
+Prevotella sp. oral taxon 299	652716	25.90196	Caries	Caries-E05
+Streptococcus oligofermentans	195041	25.1115	Caries	Caries-E05
+Prevotella veroralis	28137	21.60515	Caries	Caries-E05
+Prevotella sp. oral taxon 306	712461	21.45179	Caries	Caries-E05
+Aggregatibacter aphrophilus	732	20.45869	Caries	Caries-E05
+Neisseria meningitidis	487	20.0	Caries	Caries-E05
+Streptococcus gordonii	1302	20.0	Caries	Caries-E05
+Veillonella parvula	29466	20.0	Caries	Caries-E05
+Filifactor alocis	143361	20.0	Caries	Caries-E05
+Campylobacter concisus	199	20.0	Caries	Caries-E05
+Abiotrophia defectiva	46125	20.0	Caries	Caries-E05
+Selenomonas flueggei	135080	20.0	Caries	Caries-E05
+Alloprevotella tannerae	76122	20.0	Caries	Caries-E05
+Leptotrichia goodfellowii	157692	20.0	Caries	Caries-E05
+Prevotella oris	28135	20.0	Caries	Caries-E05
+Actinomyces sp. oral taxon 180	651609	20.0	Caries	Caries-E05
+Prevotella salivae	228604	20.0	Caries	Caries-E05
+Streptococcus cristatus	45634	20.0	Caries	Caries-E05
+Lachnospiraceae bacterium oral taxon 500	712991	20.0	Caries	Caries-E05
+Capnocytophaga sp. oral taxon 329	706435	20.0	Caries	Caries-E05
+Prevotella nigrescens	28133	20.0	Caries	Caries-E05
+Alloprevotella rava	671218	20.0	Caries	Caries-E05
+Fusobacterium sp. oral taxon 370	712288	20.0	Caries	Caries-E05
+Actinomyces massiliensis	461393	20.0	Caries	Caries-E05
+Selenomonas sp. oral taxon 138	712532	20.0	Caries	Caries-E05
+Prevotella saccharolytica	633701	20.0	Caries	Caries-E05
+Bacteroides pyogenes	310300	20.0	Caries	Caries-E05
+Prevotella baroniae	305719	20.0	Caries	Caries-E05
+Actinomyces timonensis	1288391	20.0	Caries	Caries-E05
+Mycoplasma salivarium	2124	20.0	Caries	Caries-E05
+Prevotella multisaccharivorax	310514	20.0	Caries	Caries-E05
+Mycoplasma mycoides	2102	20.0	Caries	Caries-E05
+Rothia mucilaginosa	43675	1257.47801	Caries	Caries-E07
+Prevotella histicola	470565	713.88793	Caries	Caries-E07
+Veillonella atypica	39777	621.41939	Caries	Caries-E07
+Haemophilus parainfluenzae	729	608.74051	Caries	Caries-E07
+Streptococcus salivarius	1304	531.28235	Caries	Caries-E07
+Prevotella melaninogenica	28132	515.79	Caries	Caries-E07
+Veillonella dispar	39778	427.99869	Caries	Caries-E07
+Prevotella pallens	60133	369.00903	Caries	Caries-E07
+Prevotella sp. oral taxon 473	712469	342.71286	Caries	Caries-E07
+Streptococcus parasanguinis	1318	333.63936	Caries	Caries-E07
+Stomatobaculum longum	796942	318.17158	Caries	Caries-E07
+Neisseria mucosa	488	281.18389	Caries	Caries-E07
+Actinomyces graevenitzii	55565	274.63192	Caries	Caries-E07
+Streptococcus mitis	28037	271.20012	Caries	Caries-E07
+Veillonella sp. oral taxon 158	671228	241.91278	Caries	Caries-E07
+Leptotrichia wadei	157687	228.40352	Caries	Caries-E07
+Fusobacterium periodonticum	860	190.48893	Caries	Caries-E07
+Actinomyces sp. oral taxon 172	712118	181.2303	Caries	Caries-E07
+Porphyromonas sp. oral taxon 279	712438	180.0	Caries	Caries-E07
+Leptotrichia sp. oral taxon 215	712359	160.0	Caries	Caries-E07
+Streptococcus infantis	68892	144.78774	Caries	Caries-E07
+Gemella sanguinis	84135	140.0	Caries	Caries-E07
+candidate division TM7 single-cell isolate TM7a	447454	129.14175	Caries	Caries-E07
+Oribacterium sinus	237576	125.45672	Caries	Caries-E07
+Corynebacterium matruchotii	43768	102.28162	Caries	Caries-E07
+Actinomyces odontolyticus	1660	93.3654	Caries	Caries-E07
+Megasphaera micronuciformis	187326	91.36148	Caries	Caries-E07
+Leptotrichia shahii	157691	89.69049	Caries	Caries-E07
+Lachnospiraceae bacterium oral taxon 082	712976	88.10317	Caries	Caries-E07
+Neisseria subflava	28449	80.0	Caries	Caries-E07
+Selenomonas sp. oral taxon 149	712535	69.63598	Caries	Caries-E07
+Fusobacterium nucleatum	851	64.09919	Caries	Caries-E07
+Peptostreptococcus stomatis	341694	60.0	Caries	Caries-E07
+Tannerella sp. oral taxon BU063	712710	60.0	Caries	Caries-E07
+Prevotella scopos	589437	52.85901	Caries	Caries-E07
+Streptococcus australis	113107	50.75189	Caries	Caries-E07
+Selenomonas sputigena	69823	50.59146	Caries	Caries-E07
+Leptotrichia buccalis	40542	46.78894	Caries	Caries-E07
+Atopobium parvulum	1382	44.63486	Caries	Caries-E07
+Granulicatella adiacens	46124	43.13478	Caries	Caries-E07
+Prevotella buccalis	28127	42.42344	Caries	Caries-E07
+Polynucleobacter necessarius	576610	42.34974	Caries	Caries-E07
+Porphyromonas gingivalis	837	40.0	Caries	Caries-E07
+Gemella haemolysans	1379	40.0	Caries	Caries-E07
+Lachnoanaerobaculum saburreum	467210	40.0	Caries	Caries-E07
+Selenomonas flueggei	135080	25.83559	Caries	Caries-E07
+Streptococcus oligofermentans	195041	24.95404	Caries	Caries-E07
+Prevotella sp. oral taxon 299	652716	24.49893	Caries	Caries-E07
+Prevotella sp. oral taxon 306	712461	23.53841	Caries	Caries-E07
+Abiotrophia defectiva	46125	23.49219	Caries	Caries-E07
+Alloprevotella tannerae	76122	22.87301	Caries	Caries-E07
+Prevotella oris	28135	22.74027	Caries	Caries-E07
+Prevotella veroralis	28137	22.58911	Caries	Caries-E07
+Prevotella salivae	228604	22.46745	Caries	Caries-E07
+Actinomyces sp. oral taxon 180	651609	21.99985	Caries	Caries-E07
+Veillonella parvula	29466	21.73932	Caries	Caries-E07
+Streptococcus gordonii	1302	21.33973	Caries	Caries-E07
+Neisseria meningitidis	487	20.0	Caries	Caries-E07
+Filifactor alocis	143361	20.0	Caries	Caries-E07
+Campylobacter concisus	199	20.0	Caries	Caries-E07
+Leptotrichia goodfellowii	157692	20.0	Caries	Caries-E07
+Streptococcus cristatus	45634	20.0	Caries	Caries-E07
+Lachnospiraceae bacterium oral taxon 500	712991	20.0	Caries	Caries-E07
+Capnocytophaga sp. oral taxon 329	706435	20.0	Caries	Caries-E07
+Prevotella nigrescens	28133	20.0	Caries	Caries-E07
+Alloprevotella rava	671218	20.0	Caries	Caries-E07
+Fusobacterium sp. oral taxon 370	712288	20.0	Caries	Caries-E07
+Actinomyces massiliensis	461393	20.0	Caries	Caries-E07
+Selenomonas sp. oral taxon 138	712532	20.0	Caries	Caries-E07
+Prevotella saccharolytica	633701	20.0	Caries	Caries-E07
+Bacteroides pyogenes	310300	20.0	Caries	Caries-E07
+Prevotella baroniae	305719	20.0	Caries	Caries-E07
+Actinomyces timonensis	1288391	20.0	Caries	Caries-E07
+Mycoplasma salivarium	2124	20.0	Caries	Caries-E07
+Prevotella multisaccharivorax	310514	20.0	Caries	Caries-E07
+Mycoplasma mycoides	2102	20.0	Caries	Caries-E07
+Aggregatibacter aphrophilus	732	19.84692	Caries	Caries-E07
+Rothia mucilaginosa	43675	1376.11664	Caries	Caries-E08
+Haemophilus parainfluenzae	729	731.66754	Caries	Caries-E08
+Prevotella histicola	470565	709.57247	Caries	Caries-E08
+Veillonella atypica	39777	565.13167	Caries	Caries-E08
+Prevotella melaninogenica	28132	559.01481	Caries	Caries-E08
+Streptococcus salivarius	1304	493.3272	Caries	Caries-E08
+Veillonella dispar	39778	403.84558	Caries	Caries-E08
+Prevotella sp. oral taxon 473	712469	384.35441	Caries	Caries-E08
+Prevotella pallens	60133	370.1484	Caries	Caries-E08
+Streptococcus parasanguinis	1318	317.01466	Caries	Caries-E08
+Stomatobaculum longum	796942	314.39615	Caries	Caries-E08
+Streptococcus mitis	28037	287.08697	Caries	Caries-E08
+Neisseria mucosa	488	283.92848	Caries	Caries-E08
+Veillonella sp. oral taxon 158	671228	240.46635	Caries	Caries-E08
+Actinomyces graevenitzii	55565	240.0	Caries	Caries-E08
+Fusobacterium periodonticum	860	221.95945	Caries	Caries-E08
+Leptotrichia wadei	157687	214.83654	Caries	Caries-E08
+Porphyromonas sp. oral taxon 279	712438	208.70562	Caries	Caries-E08
+Leptotrichia sp. oral taxon 215	712359	176.82229	Caries	Caries-E08
+Actinomyces sp. oral taxon 172	712118	165.20622	Caries	Caries-E08
+Gemella sanguinis	84135	162.36708	Caries	Caries-E08
+Oribacterium sinus	237576	146.61735	Caries	Caries-E08
+Streptococcus infantis	68892	146.38263	Caries	Caries-E08
+candidate division TM7 single-cell isolate TM7a	447454	126.7327	Caries	Caries-E08
+Corynebacterium matruchotii	43768	105.72333	Caries	Caries-E08
+Neisseria subflava	28449	89.97604	Caries	Caries-E08
+Actinomyces odontolyticus	1660	87.24929	Caries	Caries-E08
+Lachnospiraceae bacterium oral taxon 082	712976	85.82322	Caries	Caries-E08
+Leptotrichia shahii	157691	84.56674	Caries	Caries-E08
+Megasphaera micronuciformis	187326	84.54693	Caries	Caries-E08
+Fusobacterium nucleatum	851	74.9364	Caries	Caries-E08
+Peptostreptococcus stomatis	341694	64.482	Caries	Caries-E08
+Selenomonas sp. oral taxon 149	712535	60.0	Caries	Caries-E08
+Tannerella sp. oral taxon BU063	712710	60.0	Caries	Caries-E08
+Prevotella scopos	589437	51.05959	Caries	Caries-E08
+Leptotrichia buccalis	40542	47.7474	Caries	Caries-E08
+Prevotella buccalis	28127	47.47585	Caries	Caries-E08
+Selenomonas sputigena	69823	45.33401	Caries	Caries-E08
+Granulicatella adiacens	46124	45.26441	Caries	Caries-E08
+Gemella haemolysans	1379	44.5889	Caries	Caries-E08
+Polynucleobacter necessarius	576610	44.17956	Caries	Caries-E08
+Streptococcus australis	113107	41.06192	Caries	Caries-E08
+Porphyromonas gingivalis	837	40.0	Caries	Caries-E08
+Atopobium parvulum	1382	40.0	Caries	Caries-E08
+Lachnoanaerobaculum saburreum	467210	40.0	Caries	Caries-E08
+Prevotella sp. oral taxon 299	652716	28.04899	Caries	Caries-E08
+Bacteroides pyogenes	310300	25.41225	Caries	Caries-E08
+Streptococcus oligofermentans	195041	25.02127	Caries	Caries-E08
+Prevotella saccharolytica	633701	24.92397	Caries	Caries-E08
+Capnocytophaga sp. oral taxon 329	706435	24.65013	Caries	Caries-E08
+Prevotella multisaccharivorax	310514	24.49833	Caries	Caries-E08
+Lachnospiraceae bacterium oral taxon 500	712991	24.37733	Caries	Caries-E08
+Alloprevotella tannerae	76122	23.6161	Caries	Caries-E08
+Selenomonas sp. oral taxon 138	712532	23.43396	Caries	Caries-E08
+Aggregatibacter aphrophilus	732	23.35975	Caries	Caries-E08
+Prevotella baroniae	305719	22.78549	Caries	Caries-E08
+Prevotella sp. oral taxon 306	712461	22.61567	Caries	Caries-E08
+Prevotella veroralis	28137	22.36551	Caries	Caries-E08
+Abiotrophia defectiva	46125	21.98868	Caries	Caries-E08
+Actinomyces sp. oral taxon 180	651609	21.90806	Caries	Caries-E08
+Neisseria meningitidis	487	20.0	Caries	Caries-E08
+Streptococcus gordonii	1302	20.0	Caries	Caries-E08
+Veillonella parvula	29466	20.0	Caries	Caries-E08
+Filifactor alocis	143361	20.0	Caries	Caries-E08
+Campylobacter concisus	199	20.0	Caries	Caries-E08
+Selenomonas flueggei	135080	20.0	Caries	Caries-E08
+Leptotrichia goodfellowii	157692	20.0	Caries	Caries-E08
+Prevotella oris	28135	20.0	Caries	Caries-E08
+Prevotella salivae	228604	20.0	Caries	Caries-E08
+Streptococcus cristatus	45634	20.0	Caries	Caries-E08
+Prevotella nigrescens	28133	20.0	Caries	Caries-E08
+Alloprevotella rava	671218	20.0	Caries	Caries-E08
+Fusobacterium sp. oral taxon 370	712288	20.0	Caries	Caries-E08
+Actinomyces massiliensis	461393	20.0	Caries	Caries-E08
+Actinomyces timonensis	1288391	20.0	Caries	Caries-E08
+Mycoplasma salivarium	2124	20.0	Caries	Caries-E08
+Mycoplasma mycoides	2102	20.0	Caries	Caries-E08
+Rothia mucilaginosa	43675	1247.77367	Caries	Caries-E09
+Prevotella histicola	470565	675.50896	Caries	Caries-E09
+Haemophilus parainfluenzae	729	661.73682	Caries	Caries-E09
+Veillonella atypica	39777	546.64517	Caries	Caries-E09
+Prevotella melaninogenica	28132	480.15307	Caries	Caries-E09
+Streptococcus salivarius	1304	478.46795	Caries	Caries-E09
+Veillonella dispar	39778	383.16609	Caries	Caries-E09
+Prevotella pallens	60133	360.0	Caries	Caries-E09
+Prevotella sp. oral taxon 473	712469	348.38617	Caries	Caries-E09
+Streptococcus parasanguinis	1318	314.95874	Caries	Caries-E09
+Stomatobaculum longum	796942	309.78479	Caries	Caries-E09
+Neisseria mucosa	488	307.5817	Caries	Caries-E09
+Streptococcus mitis	28037	273.72822	Caries	Caries-E09
+Actinomyces graevenitzii	55565	253.20932	Caries	Caries-E09
+Veillonella sp. oral taxon 158	671228	238.46448	Caries	Caries-E09
+Leptotrichia wadei	157687	236.72331	Caries	Caries-E09
+Porphyromonas sp. oral taxon 279	712438	204.07205	Caries	Caries-E09
+Fusobacterium periodonticum	860	202.2993	Caries	Caries-E09
+Actinomyces sp. oral taxon 172	712118	169.55931	Caries	Caries-E09
+Leptotrichia sp. oral taxon 215	712359	162.67076	Caries	Caries-E09
+Gemella sanguinis	84135	151.43694	Caries	Caries-E09
+Streptococcus infantis	68892	143.16882	Caries	Caries-E09
+candidate division TM7 single-cell isolate TM7a	447454	133.24893	Caries	Caries-E09
+Oribacterium sinus	237576	129.68538	Caries	Caries-E09
+Neisseria subflava	28449	111.2695	Caries	Caries-E09
+Corynebacterium matruchotii	43768	100.0	Caries	Caries-E09
+Actinomyces odontolyticus	1660	93.20701	Caries	Caries-E09
+Lachnospiraceae bacterium oral taxon 082	712976	84.95842	Caries	Caries-E09
+Leptotrichia shahii	157691	84.16057	Caries	Caries-E09
+Megasphaera micronuciformis	187326	80.0	Caries	Caries-E09
+Selenomonas sp. oral taxon 149	712535	65.75913	Caries	Caries-E09
+Fusobacterium nucleatum	851	63.8555	Caries	Caries-E09
+Peptostreptococcus stomatis	341694	60.0	Caries	Caries-E09
+Tannerella sp. oral taxon BU063	712710	60.0	Caries	Caries-E09
+Gemella haemolysans	1379	49.22364	Caries	Caries-E09
+Leptotrichia buccalis	40542	47.57878	Caries	Caries-E09
+Prevotella scopos	589437	45.7361	Caries	Caries-E09
+Granulicatella adiacens	46124	42.76029	Caries	Caries-E09
+Streptococcus australis	113107	42.66003	Caries	Caries-E09
+Porphyromonas gingivalis	837	40.0	Caries	Caries-E09
+Atopobium parvulum	1382	40.0	Caries	Caries-E09
+Selenomonas sputigena	69823	40.0	Caries	Caries-E09
+Prevotella buccalis	28127	40.0	Caries	Caries-E09
+Lachnoanaerobaculum saburreum	467210	40.0	Caries	Caries-E09
+Polynucleobacter necessarius	576610	40.0	Caries	Caries-E09
+Prevotella sp. oral taxon 299	652716	25.89983	Caries	Caries-E09
+Abiotrophia defectiva	46125	25.49225	Caries	Caries-E09
+Streptococcus oligofermentans	195041	24.16551	Caries	Caries-E09
+Selenomonas flueggei	135080	24.0397	Caries	Caries-E09
+Bacteroides pyogenes	310300	22.93443	Caries	Caries-E09
+Mycoplasma mycoides	2102	22.43197	Caries	Caries-E09
+Lachnospiraceae bacterium oral taxon 500	712991	22.22173	Caries	Caries-E09
+Prevotella veroralis	28137	21.80186	Caries	Caries-E09
+Actinomyces sp. oral taxon 180	651609	21.29832	Caries	Caries-E09
+Neisseria meningitidis	487	20.0	Caries	Caries-E09
+Streptococcus gordonii	1302	20.0	Caries	Caries-E09
+Veillonella parvula	29466	20.0	Caries	Caries-E09
+Filifactor alocis	143361	20.0	Caries	Caries-E09
+Campylobacter concisus	199	20.0	Caries	Caries-E09
+Alloprevotella tannerae	76122	20.0	Caries	Caries-E09
+Leptotrichia goodfellowii	157692	20.0	Caries	Caries-E09
+Prevotella oris	28135	20.0	Caries	Caries-E09
+Prevotella salivae	228604	20.0	Caries	Caries-E09
+Streptococcus cristatus	45634	20.0	Caries	Caries-E09
+Capnocytophaga sp. oral taxon 329	706435	20.0	Caries	Caries-E09
+Prevotella nigrescens	28133	20.0	Caries	Caries-E09
+Aggregatibacter aphrophilus	732	20.0	Caries	Caries-E09
+Alloprevotella rava	671218	20.0	Caries	Caries-E09
+Fusobacterium sp. oral taxon 370	712288	20.0	Caries	Caries-E09
+Prevotella sp. oral taxon 306	712461	20.0	Caries	Caries-E09
+Actinomyces massiliensis	461393	20.0	Caries	Caries-E09
+Selenomonas sp. oral taxon 138	712532	20.0	Caries	Caries-E09
+Prevotella saccharolytica	633701	20.0	Caries	Caries-E09
+Prevotella baroniae	305719	20.0	Caries	Caries-E09
+Actinomyces timonensis	1288391	20.0	Caries	Caries-E09
+Mycoplasma salivarium	2124	20.0	Caries	Caries-E09
+Prevotella multisaccharivorax	310514	20.0	Caries	Caries-E09
+Rothia mucilaginosa	43675	1290.23399	Caries	Caries-E10
+Prevotella histicola	470565	854.0328	Caries	Caries-E10
+Veillonella atypica	39777	680.39504	Caries	Caries-E10
+Haemophilus parainfluenzae	729	638.68451	Caries	Caries-E10
+Prevotella melaninogenica	28132	563.81267	Caries	Caries-E10
+Streptococcus salivarius	1304	532.94476	Caries	Caries-E10
+Veillonella dispar	39778	464.34475	Caries	Caries-E10
+Stomatobaculum longum	796942	386.83259	Caries	Caries-E10
+Prevotella sp. oral taxon 473	712469	386.77672	Caries	Caries-E10
+Prevotella pallens	60133	372.17398	Caries	Caries-E10
+Streptococcus parasanguinis	1318	333.65404	Caries	Caries-E10
+Actinomyces graevenitzii	55565	287.11533	Caries	Caries-E10
+Neisseria mucosa	488	280.0	Caries	Caries-E10
+Streptococcus mitis	28037	268.98526	Caries	Caries-E10
+Veillonella sp. oral taxon 158	671228	252.22483	Caries	Caries-E10
+Leptotrichia wadei	157687	204.63012	Caries	Caries-E10
+Actinomyces sp. oral taxon 172	712118	192.68186	Caries	Caries-E10
+Porphyromonas sp. oral taxon 279	712438	184.06222	Caries	Caries-E10
+Fusobacterium periodonticum	860	180.66086	Caries	Caries-E10
+Leptotrichia sp. oral taxon 215	712359	164.62977	Caries	Caries-E10
+Gemella sanguinis	84135	160.0498	Caries	Caries-E10
+Streptococcus infantis	68892	149.86011	Caries	Caries-E10
+Oribacterium sinus	237576	131.53802	Caries	Caries-E10
+candidate division TM7 single-cell isolate TM7a	447454	125.15196	Caries	Caries-E10
+Megasphaera micronuciformis	187326	105.86911	Caries	Caries-E10
+Corynebacterium matruchotii	43768	105.53486	Caries	Caries-E10
+Actinomyces odontolyticus	1660	97.05218	Caries	Caries-E10
+Lachnospiraceae bacterium oral taxon 082	712976	92.36351	Caries	Caries-E10
+Neisseria subflava	28449	80.0	Caries	Caries-E10
+Leptotrichia shahii	157691	80.0	Caries	Caries-E10
+Selenomonas sp. oral taxon 149	712535	66.39519	Caries	Caries-E10
+Peptostreptococcus stomatis	341694	63.74585	Caries	Caries-E10
+Fusobacterium nucleatum	851	60.22328	Caries	Caries-E10
+Tannerella sp. oral taxon BU063	712710	60.0	Caries	Caries-E10
+Prevotella scopos	589437	57.47319	Caries	Caries-E10
+Atopobium parvulum	1382	47.49264	Caries	Caries-E10
+Selenomonas sputigena	69823	46.50666	Caries	Caries-E10
+Granulicatella adiacens	46124	46.39408	Caries	Caries-E10
+Leptotrichia buccalis	40542	44.82554	Caries	Caries-E10
+Polynucleobacter necessarius	576610	43.81684	Caries	Caries-E10
+Prevotella buccalis	28127	43.30042	Caries	Caries-E10
+Gemella haemolysans	1379	43.17481	Caries	Caries-E10
+Streptococcus australis	113107	41.75063	Caries	Caries-E10
+Porphyromonas gingivalis	837	40.0	Caries	Caries-E10
+Lachnoanaerobaculum saburreum	467210	40.0	Caries	Caries-E10
+Prevotella sp. oral taxon 306	712461	27.59461	Caries	Caries-E10
+Prevotella sp. oral taxon 299	652716	27.46247	Caries	Caries-E10
+Alloprevotella rava	671218	26.83583	Caries	Caries-E10
+Prevotella oris	28135	26.34573	Caries	Caries-E10
+Selenomonas flueggei	135080	25.81276	Caries	Caries-E10
+Streptococcus oligofermentans	195041	25.29451	Caries	Caries-E10
+Prevotella multisaccharivorax	310514	25.01067	Caries	Caries-E10
+Streptococcus gordonii	1302	24.47454	Caries	Caries-E10
+Actinomyces sp. oral taxon 180	651609	24.04371	Caries	Caries-E10
+Prevotella veroralis	28137	23.96037	Caries	Caries-E10
+Actinomyces massiliensis	461393	23.94893	Caries	Caries-E10
+Prevotella baroniae	305719	23.65806	Caries	Caries-E10
+Prevotella salivae	228604	22.35061	Caries	Caries-E10
+Veillonella parvula	29466	22.34576	Caries	Caries-E10
+Leptotrichia goodfellowii	157692	22.31934	Caries	Caries-E10
+Neisseria meningitidis	487	20.0	Caries	Caries-E10
+Filifactor alocis	143361	20.0	Caries	Caries-E10
+Campylobacter concisus	199	20.0	Caries	Caries-E10
+Abiotrophia defectiva	46125	20.0	Caries	Caries-E10
+Alloprevotella tannerae	76122	20.0	Caries	Caries-E10
+Streptococcus cristatus	45634	20.0	Caries	Caries-E10
+Lachnospiraceae bacterium oral taxon 500	712991	20.0	Caries	Caries-E10
+Capnocytophaga sp. oral taxon 329	706435	20.0	Caries	Caries-E10
+Prevotella nigrescens	28133	20.0	Caries	Caries-E10
+Aggregatibacter aphrophilus	732	20.0	Caries	Caries-E10
+Fusobacterium sp. oral taxon 370	712288	20.0	Caries	Caries-E10
+Selenomonas sp. oral taxon 138	712532	20.0	Caries	Caries-E10
+Prevotella saccharolytica	633701	20.0	Caries	Caries-E10
+Bacteroides pyogenes	310300	20.0	Caries	Caries-E10
+Actinomyces timonensis	1288391	20.0	Caries	Caries-E10
+Mycoplasma salivarium	2124	20.0	Caries	Caries-E10
+Mycoplasma mycoides	2102	20.0	Caries	Caries-E10
+Rothia mucilaginosa	43675	1270.15141	Caries	Caries-E11
+Prevotella histicola	470565	705.03515	Caries	Caries-E11
+Haemophilus parainfluenzae	729	660.80888	Caries	Caries-E11
+Veillonella atypica	39777	569.42862	Caries	Caries-E11
+Prevotella melaninogenica	28132	506.82227	Caries	Caries-E11
+Streptococcus salivarius	1304	492.51036	Caries	Caries-E11
+Veillonella dispar	39778	401.06167	Caries	Caries-E11
+Prevotella pallens	60133	368.29254	Caries	Caries-E11
+Prevotella sp. oral taxon 473	712469	363.04496	Caries	Caries-E11
+Neisseria mucosa	488	333.50213	Caries	Caries-E11
+Stomatobaculum longum	796942	323.50768	Caries	Caries-E11
+Streptococcus parasanguinis	1318	314.28404	Caries	Caries-E11
+Streptococcus mitis	28037	279.21034	Caries	Caries-E11
+Actinomyces graevenitzii	55565	256.47736	Caries	Caries-E11
+Veillonella sp. oral taxon 158	671228	244.96446	Caries	Caries-E11
+Leptotrichia wadei	157687	232.71767	Caries	Caries-E11
+Fusobacterium periodonticum	860	201.09708	Caries	Caries-E11
+Porphyromonas sp. oral taxon 279	712438	196.60714	Caries	Caries-E11
+Actinomyces sp. oral taxon 172	712118	174.87326	Caries	Caries-E11
+Leptotrichia sp. oral taxon 215	712359	162.02014	Caries	Caries-E11
+Streptococcus infantis	68892	151.71095	Caries	Caries-E11
+Gemella sanguinis	84135	151.22364	Caries	Caries-E11
+Oribacterium sinus	237576	140.56456	Caries	Caries-E11
+candidate division TM7 single-cell isolate TM7a	447454	127.57005	Caries	Caries-E11
+Neisseria subflava	28449	109.0346	Caries	Caries-E11
+Corynebacterium matruchotii	43768	100.0	Caries	Caries-E11
+Actinomyces odontolyticus	1660	94.46884	Caries	Caries-E11
+Leptotrichia shahii	157691	90.64971	Caries	Caries-E11
+Lachnospiraceae bacterium oral taxon 082	712976	89.81948	Caries	Caries-E11
+Megasphaera micronuciformis	187326	83.17844	Caries	Caries-E11
+Selenomonas sp. oral taxon 149	712535	71.84925	Caries	Caries-E11
+Fusobacterium nucleatum	851	65.83875	Caries	Caries-E11
+Peptostreptococcus stomatis	341694	60.0	Caries	Caries-E11
+Tannerella sp. oral taxon BU063	712710	60.0	Caries	Caries-E11
+Selenomonas sputigena	69823	48.64436	Caries	Caries-E11
+Prevotella scopos	589437	48.37793	Caries	Caries-E11
+Leptotrichia buccalis	40542	47.57383	Caries	Caries-E11
+Prevotella buccalis	28127	47.22424	Caries	Caries-E11
+Granulicatella adiacens	46124	43.60899	Caries	Caries-E11
+Porphyromonas gingivalis	837	40.0	Caries	Caries-E11
+Atopobium parvulum	1382	40.0	Caries	Caries-E11
+Gemella haemolysans	1379	40.0	Caries	Caries-E11
+Lachnoanaerobaculum saburreum	467210	40.0	Caries	Caries-E11
+Streptococcus australis	113107	40.0	Caries	Caries-E11
+Polynucleobacter necessarius	576610	40.0	Caries	Caries-E11
+Selenomonas flueggei	135080	27.76374	Caries	Caries-E11
+Prevotella sp. oral taxon 299	652716	26.60052	Caries	Caries-E11
+Streptococcus cristatus	45634	26.16607	Caries	Caries-E11
+Alloprevotella rava	671218	26.05946	Caries	Caries-E11
+Streptococcus oligofermentans	195041	25.2567	Caries	Caries-E11
+Capnocytophaga sp. oral taxon 329	706435	24.68316	Caries	Caries-E11
+Bacteroides pyogenes	310300	24.01076	Caries	Caries-E11
+Prevotella veroralis	28137	23.42169	Caries	Caries-E11
+Lachnospiraceae bacterium oral taxon 500	712991	23.42	Caries	Caries-E11
+Mycoplasma mycoides	2102	22.11082	Caries	Caries-E11
+Prevotella oris	28135	21.75972	Caries	Caries-E11
+Prevotella salivae	228604	21.62748	Caries	Caries-E11
+Actinomyces sp. oral taxon 180	651609	21.23477	Caries	Caries-E11
+Prevotella saccharolytica	633701	21.11836	Caries	Caries-E11
+Aggregatibacter aphrophilus	732	20.4504	Caries	Caries-E11
+Neisseria meningitidis	487	20.0	Caries	Caries-E11
+Streptococcus gordonii	1302	20.0	Caries	Caries-E11
+Veillonella parvula	29466	20.0	Caries	Caries-E11
+Filifactor alocis	143361	20.0	Caries	Caries-E11
+Campylobacter concisus	199	20.0	Caries	Caries-E11
+Abiotrophia defectiva	46125	20.0	Caries	Caries-E11
+Alloprevotella tannerae	76122	20.0	Caries	Caries-E11
+Leptotrichia goodfellowii	157692	20.0	Caries	Caries-E11
+Prevotella nigrescens	28133	20.0	Caries	Caries-E11
+Fusobacterium sp. oral taxon 370	712288	20.0	Caries	Caries-E11
+Prevotella sp. oral taxon 306	712461	20.0	Caries	Caries-E11
+Actinomyces massiliensis	461393	20.0	Caries	Caries-E11
+Selenomonas sp. oral taxon 138	712532	20.0	Caries	Caries-E11
+Prevotella baroniae	305719	20.0	Caries	Caries-E11
+Actinomyces timonensis	1288391	20.0	Caries	Caries-E11
+Mycoplasma salivarium	2124	20.0	Caries	Caries-E11
+Prevotella multisaccharivorax	310514	20.0	Caries	Caries-E11
+Rothia mucilaginosa	43675	1280.48309	Healthy	Healthy-E01
+Prevotella histicola	470565	701.5628	Healthy	Healthy-E01
+Haemophilus parainfluenzae	729	680.93723	Healthy	Healthy-E01
+Veillonella atypica	39777	561.46498	Healthy	Healthy-E01
+Prevotella melaninogenica	28132	509.03716	Healthy	Healthy-E01
+Streptococcus salivarius	1304	505.08842	Healthy	Healthy-E01
+Veillonella dispar	39778	381.40906	Healthy	Healthy-E01
+Prevotella pallens	60133	373.94674	Healthy	Healthy-E01
+Prevotella sp. oral taxon 473	712469	356.78533	Healthy	Healthy-E01
+Streptococcus parasanguinis	1318	330.85352	Healthy	Healthy-E01
+Neisseria mucosa	488	328.98704	Healthy	Healthy-E01
+Stomatobaculum longum	796942	311.61967	Healthy	Healthy-E01
+Streptococcus mitis	28037	281.71097	Healthy	Healthy-E01
+Veillonella sp. oral taxon 158	671228	244.01957	Healthy	Healthy-E01
+Actinomyces graevenitzii	55565	240.0	Healthy	Healthy-E01
+Leptotrichia wadei	157687	213.92982	Healthy	Healthy-E01
+Fusobacterium periodonticum	860	197.07063	Healthy	Healthy-E01
+Porphyromonas sp. oral taxon 279	712438	190.93228	Healthy	Healthy-E01
+Actinomyces sp. oral taxon 172	712118	180.25477	Healthy	Healthy-E01
+Leptotrichia sp. oral taxon 215	712359	166.17878	Healthy	Healthy-E01
+Gemella sanguinis	84135	151.02739	Healthy	Healthy-E01
+Streptococcus infantis	68892	140.0	Healthy	Healthy-E01
+candidate division TM7 single-cell isolate TM7a	447454	129.94713	Healthy	Healthy-E01
+Oribacterium sinus	237576	125.62172	Healthy	Healthy-E01
+Neisseria subflava	28449	110.08162	Healthy	Healthy-E01
+Corynebacterium matruchotii	43768	100.0	Healthy	Healthy-E01
+Actinomyces odontolyticus	1660	88.25008	Healthy	Healthy-E01
+Leptotrichia shahii	157691	86.53626	Healthy	Healthy-E01
+Lachnospiraceae bacterium oral taxon 082	712976	85.45805	Healthy	Healthy-E01
+Megasphaera micronuciformis	187326	81.34301	Healthy	Healthy-E01
+Fusobacterium nucleatum	851	65.98887	Healthy	Healthy-E01
+Selenomonas sp. oral taxon 149	712535	65.63422	Healthy	Healthy-E01
+Peptostreptococcus stomatis	341694	61.31659	Healthy	Healthy-E01
+Tannerella sp. oral taxon BU063	712710	60.0	Healthy	Healthy-E01
+Prevotella scopos	589437	51.27144	Healthy	Healthy-E01
+Streptococcus australis	113107	49.95873	Healthy	Healthy-E01
+Leptotrichia buccalis	40542	46.44932	Healthy	Healthy-E01
+Granulicatella adiacens	46124	45.57367	Healthy	Healthy-E01
+Selenomonas sputigena	69823	42.15993	Healthy	Healthy-E01
+Porphyromonas gingivalis	837	40.90082	Healthy	Healthy-E01
+Atopobium parvulum	1382	40.53901	Healthy	Healthy-E01
+Gemella haemolysans	1379	40.0	Healthy	Healthy-E01
+Prevotella buccalis	28127	40.0	Healthy	Healthy-E01
+Lachnoanaerobaculum saburreum	467210	40.0	Healthy	Healthy-E01
+Polynucleobacter necessarius	576610	40.0	Healthy	Healthy-E01
+Mycoplasma salivarium	2124	26.89616	Healthy	Healthy-E01
+Prevotella sp. oral taxon 299	652716	25.75389	Healthy	Healthy-E01
+Neisseria meningitidis	487	25.71097	Healthy	Healthy-E01
+Streptococcus oligofermentans	195041	25.15765	Healthy	Healthy-E01
+Selenomonas flueggei	135080	24.72499	Healthy	Healthy-E01
+Lachnospiraceae bacterium oral taxon 500	712991	23.73279	Healthy	Healthy-E01
+Prevotella sp. oral taxon 306	712461	23.43985	Healthy	Healthy-E01
+Streptococcus cristatus	45634	22.99204	Healthy	Healthy-E01
+Bacteroides pyogenes	310300	22.61163	Healthy	Healthy-E01
+Abiotrophia defectiva	46125	22.5632	Healthy	Healthy-E01
+Prevotella veroralis	28137	21.0355	Healthy	Healthy-E01
+Streptococcus gordonii	1302	20.0	Healthy	Healthy-E01
+Veillonella parvula	29466	20.0	Healthy	Healthy-E01
+Filifactor alocis	143361	20.0	Healthy	Healthy-E01
+Campylobacter concisus	199	20.0	Healthy	Healthy-E01
+Alloprevotella tannerae	76122	20.0	Healthy	Healthy-E01
+Leptotrichia goodfellowii	157692	20.0	Healthy	Healthy-E01
+Prevotella oris	28135	20.0	Healthy	Healthy-E01
+Actinomyces sp. oral taxon 180	651609	20.0	Healthy	Healthy-E01
+Prevotella salivae	228604	20.0	Healthy	Healthy-E01
+Capnocytophaga sp. oral taxon 329	706435	20.0	Healthy	Healthy-E01
+Prevotella nigrescens	28133	20.0	Healthy	Healthy-E01
+Aggregatibacter aphrophilus	732	20.0	Healthy	Healthy-E01
+Alloprevotella rava	671218	20.0	Healthy	Healthy-E01
+Fusobacterium sp. oral taxon 370	712288	20.0	Healthy	Healthy-E01
+Actinomyces massiliensis	461393	20.0	Healthy	Healthy-E01
+Selenomonas sp. oral taxon 138	712532	20.0	Healthy	Healthy-E01
+Prevotella saccharolytica	633701	20.0	Healthy	Healthy-E01
+Prevotella baroniae	305719	20.0	Healthy	Healthy-E01
+Actinomyces timonensis	1288391	20.0	Healthy	Healthy-E01
+Prevotella multisaccharivorax	310514	20.0	Healthy	Healthy-E01
+Mycoplasma mycoides	2102	20.0	Healthy	Healthy-E01
+Rothia mucilaginosa	43675	1437.26883	Healthy	Healthy-E02
+Prevotella histicola	470565	779.22722	Healthy	Healthy-E02
+Haemophilus parainfluenzae	729	642.80576	Healthy	Healthy-E02
+Veillonella atypica	39777	615.68611	Healthy	Healthy-E02
+Prevotella melaninogenica	28132	549.73848	Healthy	Healthy-E02
+Streptococcus salivarius	1304	530.30776	Healthy	Healthy-E02
+Veillonella dispar	39778	434.1822	Healthy	Healthy-E02
+Prevotella pallens	60133	423.2233	Healthy	Healthy-E02
+Prevotella sp. oral taxon 473	712469	401.95778	Healthy	Healthy-E02
+Streptococcus parasanguinis	1318	355.4125	Healthy	Healthy-E02
+Stomatobaculum longum	796942	347.69735	Healthy	Healthy-E02
+Streptococcus mitis	28037	332.92628	Healthy	Healthy-E02
+Actinomyces graevenitzii	55565	307.2923	Healthy	Healthy-E02
+Neisseria mucosa	488	299.66781	Healthy	Healthy-E02
+Leptotrichia wadei	157687	255.17043	Healthy	Healthy-E02
+Veillonella sp. oral taxon 158	671228	254.18071	Healthy	Healthy-E02
+Fusobacterium periodonticum	860	193.95955	Healthy	Healthy-E02
+Porphyromonas sp. oral taxon 279	712438	193.26888	Healthy	Healthy-E02
+Actinomyces sp. oral taxon 172	712118	191.88446	Healthy	Healthy-E02
+Leptotrichia sp. oral taxon 215	712359	172.36365	Healthy	Healthy-E02
+Streptococcus infantis	68892	165.00426	Healthy	Healthy-E02
+Gemella sanguinis	84135	160.78755	Healthy	Healthy-E02
+candidate division TM7 single-cell isolate TM7a	447454	153.35361	Healthy	Healthy-E02
+Oribacterium sinus	237576	135.3318	Healthy	Healthy-E02
+Leptotrichia shahii	157691	104.71954	Healthy	Healthy-E02
+Actinomyces odontolyticus	1660	103.0645	Healthy	Healthy-E02
+Corynebacterium matruchotii	43768	100.0	Healthy	Healthy-E02
+Lachnospiraceae bacterium oral taxon 082	712976	99.99573	Healthy	Healthy-E02
+Megasphaera micronuciformis	187326	97.26653	Healthy	Healthy-E02
+Neisseria subflava	28449	90.79878	Healthy	Healthy-E02
+Selenomonas sp. oral taxon 149	712535	82.81822	Healthy	Healthy-E02
+Fusobacterium nucleatum	851	69.94137	Healthy	Healthy-E02
+Peptostreptococcus stomatis	341694	60.0	Healthy	Healthy-E02
+Tannerella sp. oral taxon BU063	712710	60.0	Healthy	Healthy-E02
+Prevotella scopos	589437	56.15441	Healthy	Healthy-E02
+Selenomonas sputigena	69823	55.43559	Healthy	Healthy-E02
+Granulicatella adiacens	46124	50.60305	Healthy	Healthy-E02
+Prevotella buccalis	28127	50.14212	Healthy	Healthy-E02
+Leptotrichia buccalis	40542	49.31188	Healthy	Healthy-E02
+Atopobium parvulum	1382	47.80167	Healthy	Healthy-E02
+Polynucleobacter necessarius	576610	44.43092	Healthy	Healthy-E02
+Lachnoanaerobaculum saburreum	467210	44.31908	Healthy	Healthy-E02
+Gemella haemolysans	1379	44.13503	Healthy	Healthy-E02
+Streptococcus australis	113107	40.0	Healthy	Healthy-E02
+Porphyromonas gingivalis	837	39.59478	Healthy	Healthy-E02
+Selenomonas flueggei	135080	30.18547	Healthy	Healthy-E02
+Prevotella sp. oral taxon 299	652716	29.1372	Healthy	Healthy-E02
+Mycoplasma salivarium	2124	28.34243	Healthy	Healthy-E02
+Streptococcus oligofermentans	195041	27.36063	Healthy	Healthy-E02
+Prevotella sp. oral taxon 306	712461	26.48377	Healthy	Healthy-E02
+Prevotella saccharolytica	633701	26.46868	Healthy	Healthy-E02
+Alloprevotella rava	671218	26.15422	Healthy	Healthy-E02
+Prevotella oris	28135	25.7394	Healthy	Healthy-E02
+Prevotella veroralis	28137	25.50925	Healthy	Healthy-E02
+Prevotella baroniae	305719	25.05759	Healthy	Healthy-E02
+Prevotella salivae	228604	24.72178	Healthy	Healthy-E02
+Prevotella multisaccharivorax	310514	24.60623	Healthy	Healthy-E02
+Streptococcus cristatus	45634	24.39908	Healthy	Healthy-E02
+Mycoplasma mycoides	2102	23.66812	Healthy	Healthy-E02
+Abiotrophia defectiva	46125	23.37318	Healthy	Healthy-E02
+Actinomyces sp. oral taxon 180	651609	23.24353	Healthy	Healthy-E02
+Bacteroides pyogenes	310300	22.65761	Healthy	Healthy-E02
+Streptococcus gordonii	1302	21.95354	Healthy	Healthy-E02
+Leptotrichia goodfellowii	157692	21.71717	Healthy	Healthy-E02
+Neisseria meningitidis	487	21.4813	Healthy	Healthy-E02
+Veillonella parvula	29466	20.0	Healthy	Healthy-E02
+Filifactor alocis	143361	20.0	Healthy	Healthy-E02
+Campylobacter concisus	199	20.0	Healthy	Healthy-E02
+Alloprevotella tannerae	76122	20.0	Healthy	Healthy-E02
+Lachnospiraceae bacterium oral taxon 500	712991	20.0	Healthy	Healthy-E02
+Capnocytophaga sp. oral taxon 329	706435	20.0	Healthy	Healthy-E02
+Prevotella nigrescens	28133	20.0	Healthy	Healthy-E02
+Aggregatibacter aphrophilus	732	20.0	Healthy	Healthy-E02
+Fusobacterium sp. oral taxon 370	712288	20.0	Healthy	Healthy-E02
+Actinomyces massiliensis	461393	20.0	Healthy	Healthy-E02
+Selenomonas sp. oral taxon 138	712532	20.0	Healthy	Healthy-E02
+Actinomyces timonensis	1288391	20.0	Healthy	Healthy-E02
+Rothia mucilaginosa	43675	1492.14852	Healthy	Healthy-E03
+Prevotella histicola	470565	746.6981	Healthy	Healthy-E03
+Haemophilus parainfluenzae	729	739.93527	Healthy	Healthy-E03
+Veillonella atypica	39777	611.31085	Healthy	Healthy-E03
+Prevotella melaninogenica	28132	552.50666	Healthy	Healthy-E03
+Streptococcus salivarius	1304	528.48901	Healthy	Healthy-E03
+Veillonella dispar	39778	427.53188	Healthy	Healthy-E03
+Prevotella sp. oral taxon 473	712469	402.40171	Healthy	Healthy-E03
+Prevotella pallens	60133	399.56602	Healthy	Healthy-E03
+Streptococcus parasanguinis	1318	354.17881	Healthy	Healthy-E03
+Stomatobaculum longum	796942	342.59213	Healthy	Healthy-E03
+Neisseria mucosa	488	331.10984	Healthy	Healthy-E03
+Streptococcus mitis	28037	292.74198	Healthy	Healthy-E03
+Veillonella sp. oral taxon 158	671228	262.42764	Healthy	Healthy-E03
+Actinomyces graevenitzii	55565	259.5467	Healthy	Healthy-E03
+Leptotrichia wadei	157687	232.80064	Healthy	Healthy-E03
+Fusobacterium periodonticum	860	224.66361	Healthy	Healthy-E03
+Porphyromonas sp. oral taxon 279	712438	220.44009	Healthy	Healthy-E03
+Leptotrichia sp. oral taxon 215	712359	182.71661	Healthy	Healthy-E03
+Actinomyces sp. oral taxon 172	712118	177.83797	Healthy	Healthy-E03
+Gemella sanguinis	84135	175.57076	Healthy	Healthy-E03
+Streptococcus infantis	68892	159.71483	Healthy	Healthy-E03
+Oribacterium sinus	237576	137.47482	Healthy	Healthy-E03
+candidate division TM7 single-cell isolate TM7a	447454	134.84151	Healthy	Healthy-E03
+Neisseria subflava	28449	107.38253	Healthy	Healthy-E03
+Corynebacterium matruchotii	43768	100.0	Healthy	Healthy-E03
+Actinomyces odontolyticus	1660	95.41923	Healthy	Healthy-E03
+Leptotrichia shahii	157691	94.26259	Healthy	Healthy-E03
+Lachnospiraceae bacterium oral taxon 082	712976	90.37231	Healthy	Healthy-E03
+Megasphaera micronuciformis	187326	86.18533	Healthy	Healthy-E03
+Fusobacterium nucleatum	851	80.17674	Healthy	Healthy-E03
+Selenomonas sp. oral taxon 149	712535	78.45471	Healthy	Healthy-E03
+Peptostreptococcus stomatis	341694	64.53092	Healthy	Healthy-E03
+Tannerella sp. oral taxon BU063	712710	60.0	Healthy	Healthy-E03
+Prevotella scopos	589437	55.82772	Healthy	Healthy-E03
+Prevotella buccalis	28127	48.2901	Healthy	Healthy-E03
+Leptotrichia buccalis	40542	48.26971	Healthy	Healthy-E03
+Selenomonas sputigena	69823	47.70988	Healthy	Healthy-E03
+Streptococcus australis	113107	46.92408	Healthy	Healthy-E03
+Granulicatella adiacens	46124	45.9649	Healthy	Healthy-E03
+Lachnoanaerobaculum saburreum	467210	44.83661	Healthy	Healthy-E03
+Polynucleobacter necessarius	576610	44.54184	Healthy	Healthy-E03
+Atopobium parvulum	1382	44.10758	Healthy	Healthy-E03
+Gemella haemolysans	1379	43.75085	Healthy	Healthy-E03
+Porphyromonas gingivalis	837	42.31643	Healthy	Healthy-E03
+Prevotella sp. oral taxon 299	652716	28.55509	Healthy	Healthy-E03
+Selenomonas flueggei	135080	28.44106	Healthy	Healthy-E03
+Streptococcus cristatus	45634	26.99498	Healthy	Healthy-E03
+Alloprevotella rava	671218	26.72314	Healthy	Healthy-E03
+Prevotella saccharolytica	633701	26.37319	Healthy	Healthy-E03
+Streptococcus oligofermentans	195041	26.28819	Healthy	Healthy-E03
+Prevotella sp. oral taxon 306	712461	25.63848	Healthy	Healthy-E03
+Prevotella multisaccharivorax	310514	25.55612	Healthy	Healthy-E03
+Bacteroides pyogenes	310300	24.85157	Healthy	Healthy-E03
+Prevotella nigrescens	28133	24.7189	Healthy	Healthy-E03
+Capnocytophaga sp. oral taxon 329	706435	24.35068	Healthy	Healthy-E03
+Lachnospiraceae bacterium oral taxon 500	712991	24.33183	Healthy	Healthy-E03
+Mycoplasma salivarium	2124	23.69785	Healthy	Healthy-E03
+Actinomyces timonensis	1288391	23.54252	Healthy	Healthy-E03
+Leptotrichia goodfellowii	157692	23.35864	Healthy	Healthy-E03
+Campylobacter concisus	199	22.8325	Healthy	Healthy-E03
+Prevotella oris	28135	22.72253	Healthy	Healthy-E03
+Prevotella salivae	228604	22.66927	Healthy	Healthy-E03
+Streptococcus gordonii	1302	22.56386	Healthy	Healthy-E03
+Actinomyces sp. oral taxon 180	651609	22.44689	Healthy	Healthy-E03
+Neisseria meningitidis	487	20.75025	Healthy	Healthy-E03
+Veillonella parvula	29466	20.0	Healthy	Healthy-E03
+Filifactor alocis	143361	20.0	Healthy	Healthy-E03
+Abiotrophia defectiva	46125	20.0	Healthy	Healthy-E03
+Prevotella veroralis	28137	20.0	Healthy	Healthy-E03
+Alloprevotella tannerae	76122	20.0	Healthy	Healthy-E03
+Aggregatibacter aphrophilus	732	20.0	Healthy	Healthy-E03
+Fusobacterium sp. oral taxon 370	712288	20.0	Healthy	Healthy-E03
+Actinomyces massiliensis	461393	20.0	Healthy	Healthy-E03
+Selenomonas sp. oral taxon 138	712532	20.0	Healthy	Healthy-E03
+Prevotella baroniae	305719	20.0	Healthy	Healthy-E03
+Mycoplasma mycoides	2102	20.0	Healthy	Healthy-E03
+Rothia mucilaginosa	43675	1431.46026	Healthy	Healthy-E04
+Haemophilus parainfluenzae	729	735.65513	Healthy	Healthy-E04
+Prevotella histicola	470565	666.45976	Healthy	Healthy-E04
+Veillonella atypica	39777	571.08003	Healthy	Healthy-E04
+Streptococcus salivarius	1304	520.21756	Healthy	Healthy-E04
+Prevotella melaninogenica	28132	484.51171	Healthy	Healthy-E04
+Veillonella dispar	39778	417.93518	Healthy	Healthy-E04
+Prevotella pallens	60133	360.0	Healthy	Healthy-E04
+Prevotella sp. oral taxon 473	712469	344.85652	Healthy	Healthy-E04
+Streptococcus parasanguinis	1318	322.32699	Healthy	Healthy-E04
+Stomatobaculum longum	796942	304.52452	Healthy	Healthy-E04
+Neisseria mucosa	488	289.50147	Healthy	Healthy-E04
+Streptococcus mitis	28037	277.54358	Healthy	Healthy-E04
+Veillonella sp. oral taxon 158	671228	244.49323	Healthy	Healthy-E04
+Actinomyces graevenitzii	55565	243.76098	Healthy	Healthy-E04
+Leptotrichia wadei	157687	204.05323	Healthy	Healthy-E04
+Fusobacterium periodonticum	860	182.66373	Healthy	Healthy-E04
+Porphyromonas sp. oral taxon 279	712438	180.0	Healthy	Healthy-E04
+Leptotrichia sp. oral taxon 215	712359	161.93186	Healthy	Healthy-E04
+Actinomyces sp. oral taxon 172	712118	160.0	Healthy	Healthy-E04
+Streptococcus infantis	68892	150.79062	Healthy	Healthy-E04
+Gemella sanguinis	84135	142.91316	Healthy	Healthy-E04
+Oribacterium sinus	237576	126.43734	Healthy	Healthy-E04
+candidate division TM7 single-cell isolate TM7a	447454	122.41475	Healthy	Healthy-E04
+Corynebacterium matruchotii	43768	100.0	Healthy	Healthy-E04
+Actinomyces odontolyticus	1660	84.58472	Healthy	Healthy-E04
+Neisseria subflava	28449	80.0	Healthy	Healthy-E04
+Megasphaera micronuciformis	187326	80.0	Healthy	Healthy-E04
+Lachnospiraceae bacterium oral taxon 082	712976	80.0	Healthy	Healthy-E04
+Leptotrichia shahii	157691	80.0	Healthy	Healthy-E04
+Selenomonas sp. oral taxon 149	712535	67.36444	Healthy	Healthy-E04
+Fusobacterium nucleatum	851	60.0	Healthy	Healthy-E04
+Peptostreptococcus stomatis	341694	60.0	Healthy	Healthy-E04
+Tannerella sp. oral taxon BU063	712710	60.0	Healthy	Healthy-E04
+Prevotella scopos	589437	48.96549	Healthy	Healthy-E04
+Streptococcus australis	113107	47.75551	Healthy	Healthy-E04
+Leptotrichia buccalis	40542	46.1674	Healthy	Healthy-E04
+Polynucleobacter necessarius	576610	42.80956	Healthy	Healthy-E04
+Granulicatella adiacens	46124	42.496	Healthy	Healthy-E04
+Porphyromonas gingivalis	837	40.0	Healthy	Healthy-E04
+Atopobium parvulum	1382	40.0	Healthy	Healthy-E04
+Gemella haemolysans	1379	40.0	Healthy	Healthy-E04
+Selenomonas sputigena	69823	40.0	Healthy	Healthy-E04
+Prevotella buccalis	28127	40.0	Healthy	Healthy-E04
+Lachnoanaerobaculum saburreum	467210	40.0	Healthy	Healthy-E04
+Mycoplasma salivarium	2124	26.21519	Healthy	Healthy-E04
+Streptococcus oligofermentans	195041	25.23558	Healthy	Healthy-E04
+Prevotella sp. oral taxon 299	652716	23.72351	Healthy	Healthy-E04
+Streptococcus cristatus	45634	22.80057	Healthy	Healthy-E04
+Campylobacter concisus	199	22.49292	Healthy	Healthy-E04
+Actinomyces timonensis	1288391	22.29068	Healthy	Healthy-E04
+Abiotrophia defectiva	46125	20.83181	Healthy	Healthy-E04
+Neisseria meningitidis	487	20.0	Healthy	Healthy-E04
+Streptococcus gordonii	1302	20.0	Healthy	Healthy-E04
+Veillonella parvula	29466	20.0	Healthy	Healthy-E04
+Filifactor alocis	143361	20.0	Healthy	Healthy-E04
+Selenomonas flueggei	135080	20.0	Healthy	Healthy-E04
+Prevotella veroralis	28137	20.0	Healthy	Healthy-E04
+Alloprevotella tannerae	76122	20.0	Healthy	Healthy-E04
+Leptotrichia goodfellowii	157692	20.0	Healthy	Healthy-E04
+Prevotella oris	28135	20.0	Healthy	Healthy-E04
+Actinomyces sp. oral taxon 180	651609	20.0	Healthy	Healthy-E04
+Prevotella salivae	228604	20.0	Healthy	Healthy-E04
+Lachnospiraceae bacterium oral taxon 500	712991	20.0	Healthy	Healthy-E04
+Capnocytophaga sp. oral taxon 329	706435	20.0	Healthy	Healthy-E04
+Prevotella nigrescens	28133	20.0	Healthy	Healthy-E04
+Aggregatibacter aphrophilus	732	20.0	Healthy	Healthy-E04
+Alloprevotella rava	671218	20.0	Healthy	Healthy-E04
+Fusobacterium sp. oral taxon 370	712288	20.0	Healthy	Healthy-E04
+Prevotella sp. oral taxon 306	712461	20.0	Healthy	Healthy-E04
+Actinomyces massiliensis	461393	20.0	Healthy	Healthy-E04
+Selenomonas sp. oral taxon 138	712532	20.0	Healthy	Healthy-E04
+Prevotella saccharolytica	633701	20.0	Healthy	Healthy-E04
+Bacteroides pyogenes	310300	20.0	Healthy	Healthy-E04
+Prevotella baroniae	305719	20.0	Healthy	Healthy-E04
+Prevotella multisaccharivorax	310514	20.0	Healthy	Healthy-E04
+Mycoplasma mycoides	2102	20.0	Healthy	Healthy-E04
+Rothia mucilaginosa	43675	1468.26397	Healthy	Healthy-E05
+Haemophilus parainfluenzae	729	795.02684	Healthy	Healthy-E05
+Prevotella histicola	470565	707.43307	Healthy	Healthy-E05
+Veillonella atypica	39777	574.36404	Healthy	Healthy-E05
+Prevotella melaninogenica	28132	519.0688	Healthy	Healthy-E05
+Streptococcus salivarius	1304	508.08799	Healthy	Healthy-E05
+Prevotella sp. oral taxon 473	712469	401.99489	Healthy	Healthy-E05
+Veillonella dispar	39778	401.69956	Healthy	Healthy-E05
+Prevotella pallens	60133	387.49139	Healthy	Healthy-E05
+Neisseria mucosa	488	370.9509	Healthy	Healthy-E05
+Streptococcus parasanguinis	1318	342.63315	Healthy	Healthy-E05
+Stomatobaculum longum	796942	332.79068	Healthy	Healthy-E05
+Streptococcus mitis	28037	294.91308	Healthy	Healthy-E05
+Veillonella sp. oral taxon 158	671228	265.90584	Healthy	Healthy-E05
+Actinomyces graevenitzii	55565	260.32605	Healthy	Healthy-E05
+Porphyromonas sp. oral taxon 279	712438	250.20234	Healthy	Healthy-E05
+Fusobacterium periodonticum	860	231.50446	Healthy	Healthy-E05
+Leptotrichia wadei	157687	222.97599	Healthy	Healthy-E05
+Leptotrichia sp. oral taxon 215	712359	193.62771	Healthy	Healthy-E05
+Gemella sanguinis	84135	176.86515	Healthy	Healthy-E05
+Streptococcus infantis	68892	171.72147	Healthy	Healthy-E05
+Actinomyces sp. oral taxon 172	712118	171.07233	Healthy	Healthy-E05
+candidate division TM7 single-cell isolate TM7a	447454	141.54768	Healthy	Healthy-E05
+Oribacterium sinus	237576	130.25253	Healthy	Healthy-E05
+Neisseria subflava	28449	110.03427	Healthy	Healthy-E05
+Corynebacterium matruchotii	43768	100.0	Healthy	Healthy-E05
+Leptotrichia shahii	157691	91.05435	Healthy	Healthy-E05
+Actinomyces odontolyticus	1660	89.66692	Healthy	Healthy-E05
+Lachnospiraceae bacterium oral taxon 082	712976	86.61735	Healthy	Healthy-E05
+Megasphaera micronuciformis	187326	79.99817	Healthy	Healthy-E05
+Fusobacterium nucleatum	851	75.04295	Healthy	Healthy-E05
+Selenomonas sp. oral taxon 149	712535	70.24178	Healthy	Healthy-E05
+Peptostreptococcus stomatis	341694	66.73479	Healthy	Healthy-E05
+Tannerella sp. oral taxon BU063	712710	62.45565	Healthy	Healthy-E05
+Prevotella buccalis	28127	52.46349	Healthy	Healthy-E05
+Streptococcus australis	113107	52.43349	Healthy	Healthy-E05
+Prevotella scopos	589437	52.43022	Healthy	Healthy-E05
+Leptotrichia buccalis	40542	49.51249	Healthy	Healthy-E05
+Selenomonas sputigena	69823	48.00233	Healthy	Healthy-E05
+Polynucleobacter necessarius	576610	47.42837	Healthy	Healthy-E05
+Granulicatella adiacens	46124	45.27584	Healthy	Healthy-E05
+Porphyromonas gingivalis	837	44.57245	Healthy	Healthy-E05
+Gemella haemolysans	1379	44.55406	Healthy	Healthy-E05
+Lachnoanaerobaculum saburreum	467210	43.75051	Healthy	Healthy-E05
+Atopobium parvulum	1382	40.0	Healthy	Healthy-E05
+Prevotella sp. oral taxon 299	652716	29.93404	Healthy	Healthy-E05
+Alloprevotella rava	671218	27.91404	Healthy	Healthy-E05
+Streptococcus oligofermentans	195041	26.85783	Healthy	Healthy-E05
+Capnocytophaga sp. oral taxon 329	706435	26.85506	Healthy	Healthy-E05
+Prevotella saccharolytica	633701	26.75282	Healthy	Healthy-E05
+Selenomonas flueggei	135080	26.69711	Healthy	Healthy-E05
+Neisseria meningitidis	487	26.48004	Healthy	Healthy-E05
+Prevotella nigrescens	28133	26.22244	Healthy	Healthy-E05
+Mycoplasma salivarium	2124	25.62119	Healthy	Healthy-E05
+Bacteroides pyogenes	310300	25.53027	Healthy	Healthy-E05
+Streptococcus gordonii	1302	25.21513	Healthy	Healthy-E05
+Prevotella salivae	228604	25.15012	Healthy	Healthy-E05
+Fusobacterium sp. oral taxon 370	712288	25.08117	Healthy	Healthy-E05
+Prevotella baroniae	305719	24.66133	Healthy	Healthy-E05
+Lachnospiraceae bacterium oral taxon 500	712991	24.56179	Healthy	Healthy-E05
+Prevotella veroralis	28137	24.38357	Healthy	Healthy-E05
+Prevotella sp. oral taxon 306	712461	24.38128	Healthy	Healthy-E05
+Veillonella parvula	29466	24.21731	Healthy	Healthy-E05
+Alloprevotella tannerae	76122	24.03062	Healthy	Healthy-E05
+Actinomyces sp. oral taxon 180	651609	23.05035	Healthy	Healthy-E05
+Leptotrichia goodfellowii	157692	22.98724	Healthy	Healthy-E05
+Mycoplasma mycoides	2102	22.43771	Healthy	Healthy-E05
+Filifactor alocis	143361	20.0	Healthy	Healthy-E05
+Campylobacter concisus	199	20.0	Healthy	Healthy-E05
+Abiotrophia defectiva	46125	20.0	Healthy	Healthy-E05
+Prevotella oris	28135	20.0	Healthy	Healthy-E05
+Streptococcus cristatus	45634	20.0	Healthy	Healthy-E05
+Aggregatibacter aphrophilus	732	20.0	Healthy	Healthy-E05
+Actinomyces massiliensis	461393	20.0	Healthy	Healthy-E05
+Selenomonas sp. oral taxon 138	712532	20.0	Healthy	Healthy-E05
+Actinomyces timonensis	1288391	20.0	Healthy	Healthy-E05
+Prevotella multisaccharivorax	310514	20.0	Healthy	Healthy-E05
+Rothia mucilaginosa	43675	1430.22906	Healthy	Healthy-E06
+Haemophilus parainfluenzae	729	749.19889	Healthy	Healthy-E06
+Prevotella histicola	470565	734.78915	Healthy	Healthy-E06
+Veillonella atypica	39777	608.58615	Healthy	Healthy-E06
+Prevotella melaninogenica	28132	548.0038	Healthy	Healthy-E06
+Streptococcus salivarius	1304	522.48063	Healthy	Healthy-E06
+Prevotella pallens	60133	450.36745	Healthy	Healthy-E06
+Prevotella sp. oral taxon 473	712469	428.95613	Healthy	Healthy-E06
+Veillonella dispar	39778	425.79391	Healthy	Healthy-E06
+Streptococcus parasanguinis	1318	362.28312	Healthy	Healthy-E06
+Neisseria mucosa	488	361.09548	Healthy	Healthy-E06
+Stomatobaculum longum	796942	337.50146	Healthy	Healthy-E06
+Streptococcus mitis	28037	312.34367	Healthy	Healthy-E06
+Veillonella sp. oral taxon 158	671228	276.94794	Healthy	Healthy-E06
+Actinomyces graevenitzii	55565	265.99994	Healthy	Healthy-E06
+Porphyromonas sp. oral taxon 279	712438	242.57208	Healthy	Healthy-E06
+Fusobacterium periodonticum	860	238.42441	Healthy	Healthy-E06
+Leptotrichia wadei	157687	226.41672	Healthy	Healthy-E06
+Gemella sanguinis	84135	182.76317	Healthy	Healthy-E06
+Leptotrichia sp. oral taxon 215	712359	182.32904	Healthy	Healthy-E06
+Actinomyces sp. oral taxon 172	712118	174.4155	Healthy	Healthy-E06
+Streptococcus infantis	68892	169.13962	Healthy	Healthy-E06
+Oribacterium sinus	237576	138.43692	Healthy	Healthy-E06
+candidate division TM7 single-cell isolate TM7a	447454	132.54753	Healthy	Healthy-E06
+Neisseria subflava	28449	117.92776	Healthy	Healthy-E06
+Corynebacterium matruchotii	43768	100.0	Healthy	Healthy-E06
+Lachnospiraceae bacterium oral taxon 082	712976	94.98272	Healthy	Healthy-E06
+Actinomyces odontolyticus	1660	92.92786	Healthy	Healthy-E06
+Megasphaera micronuciformis	187326	83.67489	Healthy	Healthy-E06
+Leptotrichia shahii	157691	83.65944	Healthy	Healthy-E06
+Fusobacterium nucleatum	851	76.82063	Healthy	Healthy-E06
+Peptostreptococcus stomatis	341694	70.01459	Healthy	Healthy-E06
+Selenomonas sp. oral taxon 149	712535	69.83929	Healthy	Healthy-E06
+Tannerella sp. oral taxon BU063	712710	60.0	Healthy	Healthy-E06
+Prevotella scopos	589437	55.07149	Healthy	Healthy-E06
+Prevotella buccalis	28127	53.20786	Healthy	Healthy-E06
+Granulicatella adiacens	46124	49.65509	Healthy	Healthy-E06
+Leptotrichia buccalis	40542	47.84079	Healthy	Healthy-E06
+Streptococcus australis	113107	47.81268	Healthy	Healthy-E06
+Selenomonas sputigena	69823	47.44551	Healthy	Healthy-E06
+Gemella haemolysans	1379	44.83654	Healthy	Healthy-E06
+Porphyromonas gingivalis	837	44.67241	Healthy	Healthy-E06
+Polynucleobacter necessarius	576610	43.46013	Healthy	Healthy-E06
+Atopobium parvulum	1382	40.0	Healthy	Healthy-E06
+Lachnoanaerobaculum saburreum	467210	40.0	Healthy	Healthy-E06
+Prevotella sp. oral taxon 299	652716	30.44271	Healthy	Healthy-E06
+Alloprevotella rava	671218	28.08996	Healthy	Healthy-E06
+Prevotella saccharolytica	633701	27.82755	Healthy	Healthy-E06
+Streptococcus oligofermentans	195041	27.48083	Healthy	Healthy-E06
+Mycoplasma salivarium	2124	27.19709	Healthy	Healthy-E06
+Capnocytophaga sp. oral taxon 329	706435	27.16722	Healthy	Healthy-E06
+Selenomonas flueggei	135080	26.9043	Healthy	Healthy-E06
+Prevotella veroralis	28137	26.70702	Healthy	Healthy-E06
+Lachnospiraceae bacterium oral taxon 500	712991	26.00053	Healthy	Healthy-E06
+Prevotella salivae	228604	25.97838	Healthy	Healthy-E06
+Streptococcus cristatus	45634	25.33521	Healthy	Healthy-E06
+Bacteroides pyogenes	310300	25.26513	Healthy	Healthy-E06
+Prevotella baroniae	305719	25.18963	Healthy	Healthy-E06
+Neisseria meningitidis	487	25.05198	Healthy	Healthy-E06
+Fusobacterium sp. oral taxon 370	712288	24.57741	Healthy	Healthy-E06
+Streptococcus gordonii	1302	23.91483	Healthy	Healthy-E06
+Prevotella sp. oral taxon 306	712461	23.86838	Healthy	Healthy-E06
+Veillonella parvula	29466	23.72167	Healthy	Healthy-E06
+Prevotella multisaccharivorax	310514	23.02849	Healthy	Healthy-E06
+Campylobacter concisus	199	22.99276	Healthy	Healthy-E06
+Abiotrophia defectiva	46125	22.92646	Healthy	Healthy-E06
+Actinomyces sp. oral taxon 180	651609	22.87743	Healthy	Healthy-E06
+Leptotrichia goodfellowii	157692	22.4824	Healthy	Healthy-E06
+Prevotella oris	28135	22.29284	Healthy	Healthy-E06
+Filifactor alocis	143361	20.0	Healthy	Healthy-E06
+Alloprevotella tannerae	76122	20.0	Healthy	Healthy-E06
+Prevotella nigrescens	28133	20.0	Healthy	Healthy-E06
+Aggregatibacter aphrophilus	732	20.0	Healthy	Healthy-E06
+Actinomyces massiliensis	461393	20.0	Healthy	Healthy-E06
+Selenomonas sp. oral taxon 138	712532	20.0	Healthy	Healthy-E06
+Actinomyces timonensis	1288391	20.0	Healthy	Healthy-E06
+Mycoplasma mycoides	2102	20.0	Healthy	Healthy-E06
+Rothia mucilaginosa	43675	1346.75611	Healthy	Healthy-E07
+Haemophilus parainfluenzae	729	699.64815	Healthy	Healthy-E07
+Prevotella histicola	470565	685.3605	Healthy	Healthy-E07
+Veillonella atypica	39777	573.71485	Healthy	Healthy-E07
+Prevotella melaninogenica	28132	506.13436	Healthy	Healthy-E07
+Streptococcus salivarius	1304	491.24405	Healthy	Healthy-E07
+Veillonella dispar	39778	422.21636	Healthy	Healthy-E07
+Prevotella sp. oral taxon 473	712469	367.10072	Healthy	Healthy-E07
+Prevotella pallens	60133	360.0	Healthy	Healthy-E07
+Streptococcus parasanguinis	1318	348.36933	Healthy	Healthy-E07
+Stomatobaculum longum	796942	306.79126	Healthy	Healthy-E07
+Streptococcus mitis	28037	292.9332	Healthy	Healthy-E07
+Neisseria mucosa	488	280.0	Healthy	Healthy-E07
+Actinomyces graevenitzii	55565	257.56297	Healthy	Healthy-E07
+Veillonella sp. oral taxon 158	671228	252.56286	Healthy	Healthy-E07
+Leptotrichia wadei	157687	203.92989	Healthy	Healthy-E07
+Porphyromonas sp. oral taxon 279	712438	184.10858	Healthy	Healthy-E07
+Fusobacterium periodonticum	860	181.29022	Healthy	Healthy-E07
+Actinomyces sp. oral taxon 172	712118	166.43036	Healthy	Healthy-E07
+Leptotrichia sp. oral taxon 215	712359	160.0	Healthy	Healthy-E07
+Streptococcus infantis	68892	156.27719	Healthy	Healthy-E07
+Gemella sanguinis	84135	144.51956	Healthy	Healthy-E07
+Oribacterium sinus	237576	125.42106	Healthy	Healthy-E07
+candidate division TM7 single-cell isolate TM7a	447454	122.58398	Healthy	Healthy-E07
+Corynebacterium matruchotii	43768	100.0	Healthy	Healthy-E07
+Actinomyces odontolyticus	1660	89.92344	Healthy	Healthy-E07
+Lachnospiraceae bacterium oral taxon 082	712976	83.6039	Healthy	Healthy-E07
+Neisseria subflava	28449	80.0	Healthy	Healthy-E07
+Megasphaera micronuciformis	187326	80.0	Healthy	Healthy-E07
+Leptotrichia shahii	157691	80.0	Healthy	Healthy-E07
+Selenomonas sp. oral taxon 149	712535	69.87003	Healthy	Healthy-E07
+Fusobacterium nucleatum	851	62.50455	Healthy	Healthy-E07
+Peptostreptococcus stomatis	341694	60.0	Healthy	Healthy-E07
+Tannerella sp. oral taxon BU063	712710	60.0	Healthy	Healthy-E07
+Prevotella scopos	589437	52.10111	Healthy	Healthy-E07
+Prevotella buccalis	28127	46.53955	Healthy	Healthy-E07
+Leptotrichia buccalis	40542	46.33264	Healthy	Healthy-E07
+Streptococcus australis	113107	45.61296	Healthy	Healthy-E07
+Granulicatella adiacens	46124	44.36861	Healthy	Healthy-E07
+Atopobium parvulum	1382	42.33479	Healthy	Healthy-E07
+Porphyromonas gingivalis	837	40.0	Healthy	Healthy-E07
+Gemella haemolysans	1379	40.0	Healthy	Healthy-E07
+Selenomonas sputigena	69823	40.0	Healthy	Healthy-E07
+Lachnoanaerobaculum saburreum	467210	40.0	Healthy	Healthy-E07
+Polynucleobacter necessarius	576610	40.0	Healthy	Healthy-E07
+Streptococcus cristatus	45634	25.92535	Healthy	Healthy-E07
+Prevotella sp. oral taxon 299	652716	25.82194	Healthy	Healthy-E07
+Mycoplasma salivarium	2124	25.41311	Healthy	Healthy-E07
+Selenomonas flueggei	135080	25.23751	Healthy	Healthy-E07
+Streptococcus oligofermentans	195041	24.47802	Healthy	Healthy-E07
+Abiotrophia defectiva	46125	23.7738	Healthy	Healthy-E07
+Prevotella sp. oral taxon 306	712461	23.59187	Healthy	Healthy-E07
+Campylobacter concisus	199	23.22722	Healthy	Healthy-E07
+Prevotella salivae	228604	21.79078	Healthy	Healthy-E07
+Actinomyces sp. oral taxon 180	651609	21.59447	Healthy	Healthy-E07
+Prevotella veroralis	28137	21.49148	Healthy	Healthy-E07
+Neisseria meningitidis	487	20.0	Healthy	Healthy-E07
+Streptococcus gordonii	1302	20.0	Healthy	Healthy-E07
+Veillonella parvula	29466	20.0	Healthy	Healthy-E07
+Filifactor alocis	143361	20.0	Healthy	Healthy-E07
+Alloprevotella tannerae	76122	20.0	Healthy	Healthy-E07
+Leptotrichia goodfellowii	157692	20.0	Healthy	Healthy-E07
+Prevotella oris	28135	20.0	Healthy	Healthy-E07
+Lachnospiraceae bacterium oral taxon 500	712991	20.0	Healthy	Healthy-E07
+Capnocytophaga sp. oral taxon 329	706435	20.0	Healthy	Healthy-E07
+Prevotella nigrescens	28133	20.0	Healthy	Healthy-E07
+Aggregatibacter aphrophilus	732	20.0	Healthy	Healthy-E07
+Alloprevotella rava	671218	20.0	Healthy	Healthy-E07
+Fusobacterium sp. oral taxon 370	712288	20.0	Healthy	Healthy-E07
+Actinomyces massiliensis	461393	20.0	Healthy	Healthy-E07
+Selenomonas sp. oral taxon 138	712532	20.0	Healthy	Healthy-E07
+Prevotella saccharolytica	633701	20.0	Healthy	Healthy-E07
+Bacteroides pyogenes	310300	20.0	Healthy	Healthy-E07
+Prevotella baroniae	305719	20.0	Healthy	Healthy-E07
+Actinomyces timonensis	1288391	20.0	Healthy	Healthy-E07
+Prevotella multisaccharivorax	310514	20.0	Healthy	Healthy-E07
+Mycoplasma mycoides	2102	20.0	Healthy	Healthy-E07
+Rothia mucilaginosa	43675	1255.44287	Healthy	Healthy-E08
+Prevotella histicola	470565	674.7886	Healthy	Healthy-E08
+Haemophilus parainfluenzae	729	662.43177	Healthy	Healthy-E08
+Veillonella atypica	39777	555.40141	Healthy	Healthy-E08
+Prevotella melaninogenica	28132	493.48494	Healthy	Healthy-E08
+Streptococcus salivarius	1304	488.50574	Healthy	Healthy-E08
+Veillonella dispar	39778	399.05683	Healthy	Healthy-E08
+Prevotella pallens	60133	362.24779	Healthy	Healthy-E08
+Prevotella sp. oral taxon 473	712469	343.88493	Healthy	Healthy-E08
+Streptococcus parasanguinis	1318	314.68313	Healthy	Healthy-E08
+Stomatobaculum longum	796942	305.58797	Healthy	Healthy-E08
+Neisseria mucosa	488	283.2213	Healthy	Healthy-E08
+Streptococcus mitis	28037	277.59609	Healthy	Healthy-E08
+Actinomyces graevenitzii	55565	252.62122	Healthy	Healthy-E08
+Veillonella sp. oral taxon 158	671228	232.23306	Healthy	Healthy-E08
+Leptotrichia wadei	157687	203.04958	Healthy	Healthy-E08
+Porphyromonas sp. oral taxon 279	712438	184.26948	Healthy	Healthy-E08
+Fusobacterium periodonticum	860	180.0	Healthy	Healthy-E08
+Leptotrichia sp. oral taxon 215	712359	163.56445	Healthy	Healthy-E08
+Actinomyces sp. oral taxon 172	712118	160.0	Healthy	Healthy-E08
+Streptococcus infantis	68892	148.02835	Healthy	Healthy-E08
+Gemella sanguinis	84135	147.52514	Healthy	Healthy-E08
+Oribacterium sinus	237576	128.64168	Healthy	Healthy-E08
+candidate division TM7 single-cell isolate TM7a	447454	120.84036	Healthy	Healthy-E08
+Corynebacterium matruchotii	43768	100.0	Healthy	Healthy-E08
+Actinomyces odontolyticus	1660	87.04229	Healthy	Healthy-E08
+Megasphaera micronuciformis	187326	85.72093	Healthy	Healthy-E08
+Neisseria subflava	28449	80.0	Healthy	Healthy-E08
+Lachnospiraceae bacterium oral taxon 082	712976	80.0	Healthy	Healthy-E08
+Leptotrichia shahii	157691	80.0	Healthy	Healthy-E08
+Selenomonas sp. oral taxon 149	712535	64.24791	Healthy	Healthy-E08
+Fusobacterium nucleatum	851	60.0	Healthy	Healthy-E08
+Peptostreptococcus stomatis	341694	60.0	Healthy	Healthy-E08
+Tannerella sp. oral taxon BU063	712710	60.0	Healthy	Healthy-E08
+Prevotella scopos	589437	47.62042	Healthy	Healthy-E08
+Leptotrichia buccalis	40542	45.23191	Healthy	Healthy-E08
+Streptococcus australis	113107	44.84869	Healthy	Healthy-E08
+Polynucleobacter necessarius	576610	42.75661	Healthy	Healthy-E08
+Atopobium parvulum	1382	40.65524	Healthy	Healthy-E08
+Porphyromonas gingivalis	837	40.0	Healthy	Healthy-E08
+Gemella haemolysans	1379	40.0	Healthy	Healthy-E08
+Granulicatella adiacens	46124	40.0	Healthy	Healthy-E08
+Selenomonas sputigena	69823	40.0	Healthy	Healthy-E08
+Prevotella buccalis	28127	40.0	Healthy	Healthy-E08
+Lachnoanaerobaculum saburreum	467210	40.0	Healthy	Healthy-E08
+Mycoplasma salivarium	2124	26.0125	Healthy	Healthy-E08
+Prevotella sp. oral taxon 299	652716	24.41292	Healthy	Healthy-E08
+Streptococcus oligofermentans	195041	24.0846	Healthy	Healthy-E08
+Abiotrophia defectiva	46125	23.35726	Healthy	Healthy-E08
+Prevotella veroralis	28137	21.42037	Healthy	Healthy-E08
+Neisseria meningitidis	487	20.0	Healthy	Healthy-E08
+Streptococcus gordonii	1302	20.0	Healthy	Healthy-E08
+Veillonella parvula	29466	20.0	Healthy	Healthy-E08
+Filifactor alocis	143361	20.0	Healthy	Healthy-E08
+Campylobacter concisus	199	20.0	Healthy	Healthy-E08
+Selenomonas flueggei	135080	20.0	Healthy	Healthy-E08
+Alloprevotella tannerae	76122	20.0	Healthy	Healthy-E08
+Leptotrichia goodfellowii	157692	20.0	Healthy	Healthy-E08
+Prevotella oris	28135	20.0	Healthy	Healthy-E08
+Actinomyces sp. oral taxon 180	651609	20.0	Healthy	Healthy-E08
+Prevotella salivae	228604	20.0	Healthy	Healthy-E08
+Streptococcus cristatus	45634	20.0	Healthy	Healthy-E08
+Lachnospiraceae bacterium oral taxon 500	712991	20.0	Healthy	Healthy-E08
+Capnocytophaga sp. oral taxon 329	706435	20.0	Healthy	Healthy-E08
+Prevotella nigrescens	28133	20.0	Healthy	Healthy-E08
+Aggregatibacter aphrophilus	732	20.0	Healthy	Healthy-E08
+Alloprevotella rava	671218	20.0	Healthy	Healthy-E08
+Fusobacterium sp. oral taxon 370	712288	20.0	Healthy	Healthy-E08
+Prevotella sp. oral taxon 306	712461	20.0	Healthy	Healthy-E08
+Actinomyces massiliensis	461393	20.0	Healthy	Healthy-E08
+Selenomonas sp. oral taxon 138	712532	20.0	Healthy	Healthy-E08
+Prevotella saccharolytica	633701	20.0	Healthy	Healthy-E08
+Bacteroides pyogenes	310300	20.0	Healthy	Healthy-E08
+Prevotella baroniae	305719	20.0	Healthy	Healthy-E08
+Actinomyces timonensis	1288391	20.0	Healthy	Healthy-E08
+Prevotella multisaccharivorax	310514	20.0	Healthy	Healthy-E08
+Mycoplasma mycoides	2102	20.0	Healthy	Healthy-E08
+Rothia mucilaginosa	43675	1364.62067	Healthy	Healthy-E09
+Prevotella histicola	470565	730.8881	Healthy	Healthy-E09
+Veillonella atypica	39777	645.17285	Healthy	Healthy-E09
+Haemophilus parainfluenzae	729	637.12999	Healthy	Healthy-E09
+Streptococcus salivarius	1304	542.62715	Healthy	Healthy-E09
+Prevotella melaninogenica	28132	522.72231	Healthy	Healthy-E09
+Veillonella dispar	39778	452.85807	Healthy	Healthy-E09
+Prevotella sp. oral taxon 473	712469	399.39401	Healthy	Healthy-E09
+Prevotella pallens	60133	379.08838	Healthy	Healthy-E09
+Streptococcus parasanguinis	1318	338.09581	Healthy	Healthy-E09
+Stomatobaculum longum	796942	325.53262	Healthy	Healthy-E09
+Streptococcus mitis	28037	303.47681	Healthy	Healthy-E09
+Neisseria mucosa	488	282.36897	Healthy	Healthy-E09
+Actinomyces graevenitzii	55565	275.90053	Healthy	Healthy-E09
+Veillonella sp. oral taxon 158	671228	252.84252	Healthy	Healthy-E09
+Leptotrichia wadei	157687	216.78306	Healthy	Healthy-E09
+Porphyromonas sp. oral taxon 279	712438	188.54265	Healthy	Healthy-E09
+Fusobacterium periodonticum	860	180.63596	Healthy	Healthy-E09
+Actinomyces sp. oral taxon 172	712118	176.81495	Healthy	Healthy-E09
+Leptotrichia sp. oral taxon 215	712359	160.0	Healthy	Healthy-E09
+Streptococcus infantis	68892	158.64149	Healthy	Healthy-E09
+Gemella sanguinis	84135	148.45681	Healthy	Healthy-E09
+candidate division TM7 single-cell isolate TM7a	447454	133.45625	Healthy	Healthy-E09
+Oribacterium sinus	237576	122.98053	Healthy	Healthy-E09
+Megasphaera micronuciformis	187326	101.39987	Healthy	Healthy-E09
+Corynebacterium matruchotii	43768	100.0	Healthy	Healthy-E09
+Lachnospiraceae bacterium oral taxon 082	712976	99.38196	Healthy	Healthy-E09
+Actinomyces odontolyticus	1660	97.76805	Healthy	Healthy-E09
+Leptotrichia shahii	157691	84.2132	Healthy	Healthy-E09
+Neisseria subflava	28449	80.0	Healthy	Healthy-E09
+Selenomonas sp. oral taxon 149	712535	69.33038	Healthy	Healthy-E09
+Fusobacterium nucleatum	851	63.74899	Healthy	Healthy-E09
+Peptostreptococcus stomatis	341694	62.09192	Healthy	Healthy-E09
+Tannerella sp. oral taxon BU063	712710	60.0	Healthy	Healthy-E09
+Prevotella scopos	589437	51.57022	Healthy	Healthy-E09
+Streptococcus australis	113107	48.58378	Healthy	Healthy-E09
+Selenomonas sputigena	69823	46.2491	Healthy	Healthy-E09
+Leptotrichia buccalis	40542	45.97451	Healthy	Healthy-E09
+Atopobium parvulum	1382	45.41399	Healthy	Healthy-E09
+Prevotella buccalis	28127	45.37045	Healthy	Healthy-E09
+Polynucleobacter necessarius	576610	44.53892	Healthy	Healthy-E09
+Granulicatella adiacens	46124	44.41075	Healthy	Healthy-E09
+Gemella haemolysans	1379	42.58921	Healthy	Healthy-E09
+Porphyromonas gingivalis	837	40.0	Healthy	Healthy-E09
+Lachnoanaerobaculum saburreum	467210	40.0	Healthy	Healthy-E09
+Mycoplasma salivarium	2124	29.10283	Healthy	Healthy-E09
+Prevotella sp. oral taxon 299	652716	28.13993	Healthy	Healthy-E09
+Selenomonas flueggei	135080	26.40061	Healthy	Healthy-E09
+Streptococcus oligofermentans	195041	26.16277	Healthy	Healthy-E09
+Streptococcus gordonii	1302	25.19581	Healthy	Healthy-E09
+Prevotella saccharolytica	633701	25.02377	Healthy	Healthy-E09
+Prevotella multisaccharivorax	310514	24.72996	Healthy	Healthy-E09
+Streptococcus cristatus	45634	24.55563	Healthy	Healthy-E09
+Prevotella sp. oral taxon 306	712461	24.4777	Healthy	Healthy-E09
+Abiotrophia defectiva	46125	24.45461	Healthy	Healthy-E09
+Prevotella veroralis	28137	24.11348	Healthy	Healthy-E09
+Veillonella parvula	29466	23.47603	Healthy	Healthy-E09
+Prevotella oris	28135	23.12944	Healthy	Healthy-E09
+Lachnospiraceae bacterium oral taxon 500	712991	23.03488	Healthy	Healthy-E09
+Prevotella salivae	228604	22.48089	Healthy	Healthy-E09
+Actinomyces sp. oral taxon 180	651609	21.51646	Healthy	Healthy-E09
+Neisseria meningitidis	487	20.0	Healthy	Healthy-E09
+Filifactor alocis	143361	20.0	Healthy	Healthy-E09
+Campylobacter concisus	199	20.0	Healthy	Healthy-E09
+Alloprevotella tannerae	76122	20.0	Healthy	Healthy-E09
+Leptotrichia goodfellowii	157692	20.0	Healthy	Healthy-E09
+Capnocytophaga sp. oral taxon 329	706435	20.0	Healthy	Healthy-E09
+Prevotella nigrescens	28133	20.0	Healthy	Healthy-E09
+Aggregatibacter aphrophilus	732	20.0	Healthy	Healthy-E09
+Alloprevotella rava	671218	20.0	Healthy	Healthy-E09
+Fusobacterium sp. oral taxon 370	712288	20.0	Healthy	Healthy-E09
+Actinomyces massiliensis	461393	20.0	Healthy	Healthy-E09
+Selenomonas sp. oral taxon 138	712532	20.0	Healthy	Healthy-E09
+Bacteroides pyogenes	310300	20.0	Healthy	Healthy-E09
+Prevotella baroniae	305719	20.0	Healthy	Healthy-E09
+Actinomyces timonensis	1288391	20.0	Healthy	Healthy-E09
+Mycoplasma mycoides	2102	20.0	Healthy	Healthy-E09
+Rothia mucilaginosa	43675	1216.77538	Healthy	Healthy-E10
+Prevotella histicola	470565	714.68221	Healthy	Healthy-E10
+Haemophilus parainfluenzae	729	638.06012	Healthy	Healthy-E10
+Veillonella atypica	39777	568.80861	Healthy	Healthy-E10
+Prevotella melaninogenica	28132	508.27649	Healthy	Healthy-E10
+Streptococcus salivarius	1304	492.71511	Healthy	Healthy-E10
+Veillonella dispar	39778	407.64021	Healthy	Healthy-E10
+Prevotella pallens	60133	369.33892	Healthy	Healthy-E10
+Prevotella sp. oral taxon 473	712469	363.4842	Healthy	Healthy-E10
+Streptococcus parasanguinis	1318	324.34511	Healthy	Healthy-E10
+Stomatobaculum longum	796942	320.29022	Healthy	Healthy-E10
+Streptococcus mitis	28037	298.91613	Healthy	Healthy-E10
+Neisseria mucosa	488	290.4236	Healthy	Healthy-E10
+Veillonella sp. oral taxon 158	671228	243.28146	Healthy	Healthy-E10
+Actinomyces graevenitzii	55565	243.07014	Healthy	Healthy-E10
+Leptotrichia wadei	157687	223.15673	Healthy	Healthy-E10
+Fusobacterium periodonticum	860	193.53026	Healthy	Healthy-E10
+Porphyromonas sp. oral taxon 279	712438	193.44483	Healthy	Healthy-E10
+Actinomyces sp. oral taxon 172	712118	170.57826	Healthy	Healthy-E10
+Leptotrichia sp. oral taxon 215	712359	160.55217	Healthy	Healthy-E10
+Streptococcus infantis	68892	151.72242	Healthy	Healthy-E10
+Gemella sanguinis	84135	148.50468	Healthy	Healthy-E10
+Oribacterium sinus	237576	131.51764	Healthy	Healthy-E10
+candidate division TM7 single-cell isolate TM7a	447454	130.11961	Healthy	Healthy-E10
+Corynebacterium matruchotii	43768	100.0	Healthy	Healthy-E10
+Actinomyces odontolyticus	1660	91.77487	Healthy	Healthy-E10
+Neisseria subflava	28449	84.4069	Healthy	Healthy-E10
+Lachnospiraceae bacterium oral taxon 082	712976	84.279	Healthy	Healthy-E10
+Leptotrichia shahii	157691	84.23926	Healthy	Healthy-E10
+Megasphaera micronuciformis	187326	84.06948	Healthy	Healthy-E10
+Selenomonas sp. oral taxon 149	712535	70.99726	Healthy	Healthy-E10
+Fusobacterium nucleatum	851	64.62865	Healthy	Healthy-E10
+Peptostreptococcus stomatis	341694	60.0	Healthy	Healthy-E10
+Tannerella sp. oral taxon BU063	712710	60.0	Healthy	Healthy-E10
+Prevotella scopos	589437	49.05656	Healthy	Healthy-E10
+Leptotrichia buccalis	40542	46.84562	Healthy	Healthy-E10
+Selenomonas sputigena	69823	46.38711	Healthy	Healthy-E10
+Granulicatella adiacens	46124	44.86993	Healthy	Healthy-E10
+Gemella haemolysans	1379	44.76165	Healthy	Healthy-E10
+Polynucleobacter necessarius	576610	43.16432	Healthy	Healthy-E10
+Prevotella buccalis	28127	42.75628	Healthy	Healthy-E10
+Streptococcus australis	113107	41.67117	Healthy	Healthy-E10
+Porphyromonas gingivalis	837	40.0	Healthy	Healthy-E10
+Atopobium parvulum	1382	40.0	Healthy	Healthy-E10
+Lachnoanaerobaculum saburreum	467210	40.0	Healthy	Healthy-E10
+Selenomonas flueggei	135080	27.05545	Healthy	Healthy-E10
+Mycoplasma salivarium	2124	26.98523	Healthy	Healthy-E10
+Prevotella sp. oral taxon 299	652716	26.74568	Healthy	Healthy-E10
+Prevotella sp. oral taxon 306	712461	24.72806	Healthy	Healthy-E10
+Prevotella saccharolytica	633701	24.4558	Healthy	Healthy-E10
+Streptococcus oligofermentans	195041	24.16173	Healthy	Healthy-E10
+Abiotrophia defectiva	46125	24.0917	Healthy	Healthy-E10
+Prevotella veroralis	28137	23.16152	Healthy	Healthy-E10
+Prevotella multisaccharivorax	310514	22.98818	Healthy	Healthy-E10
+Prevotella salivae	228604	22.79746	Healthy	Healthy-E10
+Streptococcus gordonii	1302	22.77156	Healthy	Healthy-E10
+Bacteroides pyogenes	310300	22.59756	Healthy	Healthy-E10
+Streptococcus cristatus	45634	22.18029	Healthy	Healthy-E10
+Alloprevotella tannerae	76122	21.91925	Healthy	Healthy-E10
+Leptotrichia goodfellowii	157692	20.36858	Healthy	Healthy-E10
+Neisseria meningitidis	487	20.0	Healthy	Healthy-E10
+Veillonella parvula	29466	20.0	Healthy	Healthy-E10
+Filifactor alocis	143361	20.0	Healthy	Healthy-E10
+Campylobacter concisus	199	20.0	Healthy	Healthy-E10
+Prevotella oris	28135	20.0	Healthy	Healthy-E10
+Actinomyces sp. oral taxon 180	651609	20.0	Healthy	Healthy-E10
+Lachnospiraceae bacterium oral taxon 500	712991	20.0	Healthy	Healthy-E10
+Capnocytophaga sp. oral taxon 329	706435	20.0	Healthy	Healthy-E10
+Prevotella nigrescens	28133	20.0	Healthy	Healthy-E10
+Aggregatibacter aphrophilus	732	20.0	Healthy	Healthy-E10
+Alloprevotella rava	671218	20.0	Healthy	Healthy-E10
+Fusobacterium sp. oral taxon 370	712288	20.0	Healthy	Healthy-E10
+Actinomyces massiliensis	461393	20.0	Healthy	Healthy-E10
+Selenomonas sp. oral taxon 138	712532	20.0	Healthy	Healthy-E10
+Prevotella baroniae	305719	20.0	Healthy	Healthy-E10
+Actinomyces timonensis	1288391	20.0	Healthy	Healthy-E10
+Mycoplasma mycoides	2102	20.0	Healthy	Healthy-E10
+Rothia mucilaginosa	43675	1338.83335	Perio	Perio-E03
+Prevotella histicola	470565	683.91076	Perio	Perio-E03
+Haemophilus parainfluenzae	729	665.31409	Perio	Perio-E03
+Veillonella atypica	39777	555.92099	Perio	Perio-E03
+Prevotella melaninogenica	28132	499.1674	Perio	Perio-E03
+Streptococcus salivarius	1304	496.46791	Perio	Perio-E03
+Veillonella dispar	39778	407.47767	Perio	Perio-E03
+Prevotella pallens	60133	378.87433	Perio	Perio-E03
+Prevotella sp. oral taxon 473	712469	350.53167	Perio	Perio-E03
+Streptococcus parasanguinis	1318	326.96568	Perio	Perio-E03
+Stomatobaculum longum	796942	314.00707	Perio	Perio-E03
+Neisseria mucosa	488	294.87563	Perio	Perio-E03
+Streptococcus mitis	28037	274.96902	Perio	Perio-E03
+Veillonella sp. oral taxon 158	671228	255.5627	Perio	Perio-E03
+Actinomyces graevenitzii	55565	242.65887	Perio	Perio-E03
+Leptotrichia wadei	157687	211.80185	Perio	Perio-E03
+Porphyromonas sp. oral taxon 279	712438	205.72579	Perio	Perio-E03
+Fusobacterium periodonticum	860	200.16481	Perio	Perio-E03
+Actinomyces sp. oral taxon 172	712118	169.57099	Perio	Perio-E03
+Leptotrichia sp. oral taxon 215	712359	169.15305	Perio	Perio-E03
+Gemella sanguinis	84135	164.69203	Perio	Perio-E03
+Streptococcus infantis	68892	157.83684	Perio	Perio-E03
+Oribacterium sinus	237576	130.82074	Perio	Perio-E03
+candidate division TM7 single-cell isolate TM7a	447454	130.01151	Perio	Perio-E03
+Corynebacterium matruchotii	43768	104.43269	Perio	Perio-E03
+Neisseria subflava	28449	99.08364	Perio	Perio-E03
+Actinomyces odontolyticus	1660	89.92942	Perio	Perio-E03
+Leptotrichia shahii	157691	86.77076	Perio	Perio-E03
+Lachnospiraceae bacterium oral taxon 082	712976	84.87423	Perio	Perio-E03
+Megasphaera micronuciformis	187326	80.0	Perio	Perio-E03
+Fusobacterium nucleatum	851	72.257	Perio	Perio-E03
+Tannerella sp. oral taxon BU063	712710	69.91956	Perio	Perio-E03
+Selenomonas sp. oral taxon 149	712535	65.29805	Perio	Perio-E03
+Peptostreptococcus stomatis	341694	63.08897	Perio	Perio-E03
+Leptotrichia buccalis	40542	50.34678	Perio	Perio-E03
+Lachnoanaerobaculum saburreum	467210	48.65046	Perio	Perio-E03
+Prevotella scopos	589437	47.82214	Perio	Perio-E03
+Selenomonas sputigena	69823	46.89888	Perio	Perio-E03
+Streptococcus australis	113107	45.51651	Perio	Perio-E03
+Prevotella buccalis	28127	42.53947	Perio	Perio-E03
+Porphyromonas gingivalis	837	40.0	Perio	Perio-E03
+Atopobium parvulum	1382	40.0	Perio	Perio-E03
+Gemella haemolysans	1379	40.0	Perio	Perio-E03
+Granulicatella adiacens	46124	40.0	Perio	Perio-E03
+Polynucleobacter necessarius	576610	40.0	Perio	Perio-E03
+Prevotella sp. oral taxon 299	652716	26.1977	Perio	Perio-E03
+Streptococcus oligofermentans	195041	25.68087	Perio	Perio-E03
+Mycoplasma salivarium	2124	24.51787	Perio	Perio-E03
+Streptococcus cristatus	45634	24.22961	Perio	Perio-E03
+Bacteroides pyogenes	310300	23.28141	Perio	Perio-E03
+Selenomonas flueggei	135080	23.27373	Perio	Perio-E03
+Prevotella saccharolytica	633701	22.96128	Perio	Perio-E03
+Prevotella veroralis	28137	21.99244	Perio	Perio-E03
+Actinomyces sp. oral taxon 180	651609	21.90136	Perio	Perio-E03
+Filifactor alocis	143361	21.38305	Perio	Perio-E03
+Campylobacter concisus	199	20.48833	Perio	Perio-E03
+Neisseria meningitidis	487	20.0	Perio	Perio-E03
+Streptococcus gordonii	1302	20.0	Perio	Perio-E03
+Veillonella parvula	29466	20.0	Perio	Perio-E03
+Abiotrophia defectiva	46125	20.0	Perio	Perio-E03
+Alloprevotella tannerae	76122	20.0	Perio	Perio-E03
+Leptotrichia goodfellowii	157692	20.0	Perio	Perio-E03
+Prevotella oris	28135	20.0	Perio	Perio-E03
+Prevotella salivae	228604	20.0	Perio	Perio-E03
+Lachnospiraceae bacterium oral taxon 500	712991	20.0	Perio	Perio-E03
+Capnocytophaga sp. oral taxon 329	706435	20.0	Perio	Perio-E03
+Prevotella nigrescens	28133	20.0	Perio	Perio-E03
+Aggregatibacter aphrophilus	732	20.0	Perio	Perio-E03
+Alloprevotella rava	671218	20.0	Perio	Perio-E03
+Fusobacterium sp. oral taxon 370	712288	20.0	Perio	Perio-E03
+Prevotella sp. oral taxon 306	712461	20.0	Perio	Perio-E03
+Actinomyces massiliensis	461393	20.0	Perio	Perio-E03
+Selenomonas sp. oral taxon 138	712532	20.0	Perio	Perio-E03
+Prevotella baroniae	305719	20.0	Perio	Perio-E03
+Actinomyces timonensis	1288391	20.0	Perio	Perio-E03
+Prevotella multisaccharivorax	310514	20.0	Perio	Perio-E03
+Mycoplasma mycoides	2102	20.0	Perio	Perio-E03
+Rothia mucilaginosa	43675	1289.21129	Perio	Perio-E04
+Prevotella histicola	470565	716.60367	Perio	Perio-E04
+Haemophilus parainfluenzae	729	645.64577	Perio	Perio-E04
+Veillonella atypica	39777	570.0264	Perio	Perio-E04
+Prevotella melaninogenica	28132	513.88633	Perio	Perio-E04
+Streptococcus salivarius	1304	503.94924	Perio	Perio-E04
+Veillonella dispar	39778	413.41299	Perio	Perio-E04
+Prevotella pallens	60133	398.80872	Perio	Perio-E04
+Prevotella sp. oral taxon 473	712469	357.48923	Perio	Perio-E04
+Stomatobaculum longum	796942	343.35007	Perio	Perio-E04
+Streptococcus parasanguinis	1318	315.02913	Perio	Perio-E04
+Neisseria mucosa	488	301.18634	Perio	Perio-E04
+Actinomyces graevenitzii	55565	276.71946	Perio	Perio-E04
+Streptococcus mitis	28037	269.78053	Perio	Perio-E04
+Leptotrichia wadei	157687	258.44466	Perio	Perio-E04
+Veillonella sp. oral taxon 158	671228	257.48286	Perio	Perio-E04
+Fusobacterium periodonticum	860	207.8363	Perio	Perio-E04
+Porphyromonas sp. oral taxon 279	712438	195.13503	Perio	Perio-E04
+Actinomyces sp. oral taxon 172	712118	169.84117	Perio	Perio-E04
+Leptotrichia sp. oral taxon 215	712359	167.03446	Perio	Perio-E04
+candidate division TM7 single-cell isolate TM7a	447454	153.5514	Perio	Perio-E04
+Gemella sanguinis	84135	147.17451	Perio	Perio-E04
+Streptococcus infantis	68892	140.0	Perio	Perio-E04
+Oribacterium sinus	237576	130.30738	Perio	Perio-E04
+Corynebacterium matruchotii	43768	109.04445	Perio	Perio-E04
+Leptotrichia shahii	157691	108.24358	Perio	Perio-E04
+Neisseria subflava	28449	99.14779	Perio	Perio-E04
+Lachnospiraceae bacterium oral taxon 082	712976	94.67488	Perio	Perio-E04
+Actinomyces odontolyticus	1660	89.0991	Perio	Perio-E04
+Megasphaera micronuciformis	187326	88.33797	Perio	Perio-E04
+Selenomonas sp. oral taxon 149	712535	71.02892	Perio	Perio-E04
+Fusobacterium nucleatum	851	70.60903	Perio	Perio-E04
+Tannerella sp. oral taxon BU063	712710	64.70645	Perio	Perio-E04
+Peptostreptococcus stomatis	341694	62.18134	Perio	Perio-E04
+Leptotrichia buccalis	40542	50.07555	Perio	Perio-E04
+Prevotella scopos	589437	48.8684	Perio	Perio-E04
+Selenomonas sputigena	69823	47.41136	Perio	Perio-E04
+Streptococcus australis	113107	44.24874	Perio	Perio-E04
+Gemella haemolysans	1379	43.52964	Perio	Perio-E04
+Granulicatella adiacens	46124	42.75875	Perio	Perio-E04
+Porphyromonas gingivalis	837	40.0	Perio	Perio-E04
+Atopobium parvulum	1382	40.0	Perio	Perio-E04
+Prevotella buccalis	28127	40.0	Perio	Perio-E04
+Lachnoanaerobaculum saburreum	467210	40.0	Perio	Perio-E04
+Polynucleobacter necessarius	576610	40.0	Perio	Perio-E04
+Selenomonas flueggei	135080	27.86682	Perio	Perio-E04
+Prevotella sp. oral taxon 299	652716	27.3328	Perio	Perio-E04
+Mycoplasma salivarium	2124	26.38993	Perio	Perio-E04
+Fusobacterium sp. oral taxon 370	712288	24.70654	Perio	Perio-E04
+Actinomyces timonensis	1288391	24.65097	Perio	Perio-E04
+Prevotella nigrescens	28133	24.038	Perio	Perio-E04
+Prevotella saccharolytica	633701	23.69885	Perio	Perio-E04
+Prevotella sp. oral taxon 306	712461	23.56111	Perio	Perio-E04
+Streptococcus oligofermentans	195041	23.5212	Perio	Perio-E04
+Mycoplasma mycoides	2102	23.51882	Perio	Perio-E04
+Prevotella baroniae	305719	22.79123	Perio	Perio-E04
+Actinomyces sp. oral taxon 180	651609	22.71099	Perio	Perio-E04
+Campylobacter concisus	199	22.36192	Perio	Perio-E04
+Neisseria meningitidis	487	20.0	Perio	Perio-E04
+Streptococcus gordonii	1302	20.0	Perio	Perio-E04
+Veillonella parvula	29466	20.0	Perio	Perio-E04
+Filifactor alocis	143361	20.0	Perio	Perio-E04
+Abiotrophia defectiva	46125	20.0	Perio	Perio-E04
+Prevotella veroralis	28137	20.0	Perio	Perio-E04
+Alloprevotella tannerae	76122	20.0	Perio	Perio-E04
+Leptotrichia goodfellowii	157692	20.0	Perio	Perio-E04
+Prevotella oris	28135	20.0	Perio	Perio-E04
+Prevotella salivae	228604	20.0	Perio	Perio-E04
+Streptococcus cristatus	45634	20.0	Perio	Perio-E04
+Lachnospiraceae bacterium oral taxon 500	712991	20.0	Perio	Perio-E04
+Capnocytophaga sp. oral taxon 329	706435	20.0	Perio	Perio-E04
+Aggregatibacter aphrophilus	732	20.0	Perio	Perio-E04
+Alloprevotella rava	671218	20.0	Perio	Perio-E04
+Actinomyces massiliensis	461393	20.0	Perio	Perio-E04
+Selenomonas sp. oral taxon 138	712532	20.0	Perio	Perio-E04
+Bacteroides pyogenes	310300	20.0	Perio	Perio-E04
+Prevotella multisaccharivorax	310514	20.0	Perio	Perio-E04
+Rothia mucilaginosa	43675	1222.4546	Perio	Perio-E05
+Prevotella histicola	470565	668.40778	Perio	Perio-E05
+Haemophilus parainfluenzae	729	620.06602	Perio	Perio-E05
+Veillonella atypica	39777	536.4975	Perio	Perio-E05
+Prevotella melaninogenica	28132	503.24894	Perio	Perio-E05
+Streptococcus salivarius	1304	488.44029	Perio	Perio-E05
+Prevotella pallens	60133	376.02317	Perio	Perio-E05
+Veillonella dispar	39778	366.56517	Perio	Perio-E05
+Prevotella sp. oral taxon 473	712469	354.13956	Perio	Perio-E05
+Streptococcus parasanguinis	1318	315.78188	Perio	Perio-E05
+Stomatobaculum longum	796942	311.45057	Perio	Perio-E05
+Neisseria mucosa	488	303.50448	Perio	Perio-E05
+Streptococcus mitis	28037	280.98067	Perio	Perio-E05
+Actinomyces graevenitzii	55565	253.50547	Perio	Perio-E05
+Veillonella sp. oral taxon 158	671228	238.38292	Perio	Perio-E05
+Leptotrichia wadei	157687	238.14088	Perio	Perio-E05
+Fusobacterium periodonticum	860	221.1508	Perio	Perio-E05
+Porphyromonas sp. oral taxon 279	712438	182.81509	Perio	Perio-E05
+Leptotrichia sp. oral taxon 215	712359	179.82926	Perio	Perio-E05
+Actinomyces sp. oral taxon 172	712118	162.90302	Perio	Perio-E05
+Gemella sanguinis	84135	144.60454	Perio	Perio-E05
+Streptococcus infantis	68892	144.44623	Perio	Perio-E05
+candidate division TM7 single-cell isolate TM7a	447454	131.97884	Perio	Perio-E05
+Oribacterium sinus	237576	123.48761	Perio	Perio-E05
+Corynebacterium matruchotii	43768	121.72567	Perio	Perio-E05
+Neisseria subflava	28449	93.11092	Perio	Perio-E05
+Leptotrichia shahii	157691	93.06359	Perio	Perio-E05
+Actinomyces odontolyticus	1660	86.36218	Perio	Perio-E05
+Lachnospiraceae bacterium oral taxon 082	712976	86.18087	Perio	Perio-E05
+Megasphaera micronuciformis	187326	85.34744	Perio	Perio-E05
+Fusobacterium nucleatum	851	75.5981	Perio	Perio-E05
+Tannerella sp. oral taxon BU063	712710	72.6532	Perio	Perio-E05
+Selenomonas sp. oral taxon 149	712535	69.11489	Perio	Perio-E05
+Peptostreptococcus stomatis	341694	62.13017	Perio	Perio-E05
+Selenomonas sputigena	69823	48.46211	Perio	Perio-E05
+Porphyromonas gingivalis	837	48.0077	Perio	Perio-E05
+Prevotella scopos	589437	47.48461	Perio	Perio-E05
+Leptotrichia buccalis	40542	47.45079	Perio	Perio-E05
+Lachnoanaerobaculum saburreum	467210	45.0451	Perio	Perio-E05
+Prevotella buccalis	28127	44.09899	Perio	Perio-E05
+Granulicatella adiacens	46124	42.43681	Perio	Perio-E05
+Atopobium parvulum	1382	40.0	Perio	Perio-E05
+Gemella haemolysans	1379	40.0	Perio	Perio-E05
+Streptococcus australis	113107	40.0	Perio	Perio-E05
+Polynucleobacter necessarius	576610	40.0	Perio	Perio-E05
+Selenomonas flueggei	135080	27.40406	Perio	Perio-E05
+Mycoplasma salivarium	2124	26.92615	Perio	Perio-E05
+Prevotella sp. oral taxon 299	652716	26.52362	Perio	Perio-E05
+Bacteroides pyogenes	310300	25.00813	Perio	Perio-E05
+Streptococcus oligofermentans	195041	24.65633	Perio	Perio-E05
+Filifactor alocis	143361	24.34778	Perio	Perio-E05
+Fusobacterium sp. oral taxon 370	712288	24.24404	Perio	Perio-E05
+Selenomonas sp. oral taxon 138	712532	23.5533	Perio	Perio-E05
+Prevotella veroralis	28137	23.38186	Perio	Perio-E05
+Actinomyces massiliensis	461393	23.30206	Perio	Perio-E05
+Streptococcus gordonii	1302	23.25838	Perio	Perio-E05
+Prevotella saccharolytica	633701	22.63333	Perio	Perio-E05
+Prevotella nigrescens	28133	22.27117	Perio	Perio-E05
+Mycoplasma mycoides	2102	22.18781	Perio	Perio-E05
+Prevotella salivae	228604	21.55722	Perio	Perio-E05
+Actinomyces sp. oral taxon 180	651609	20.98741	Perio	Perio-E05
+Neisseria meningitidis	487	20.0	Perio	Perio-E05
+Veillonella parvula	29466	20.0	Perio	Perio-E05
+Campylobacter concisus	199	20.0	Perio	Perio-E05
+Abiotrophia defectiva	46125	20.0	Perio	Perio-E05
+Alloprevotella tannerae	76122	20.0	Perio	Perio-E05
+Leptotrichia goodfellowii	157692	20.0	Perio	Perio-E05
+Prevotella oris	28135	20.0	Perio	Perio-E05
+Streptococcus cristatus	45634	20.0	Perio	Perio-E05
+Lachnospiraceae bacterium oral taxon 500	712991	20.0	Perio	Perio-E05
+Capnocytophaga sp. oral taxon 329	706435	20.0	Perio	Perio-E05
+Aggregatibacter aphrophilus	732	20.0	Perio	Perio-E05
+Alloprevotella rava	671218	20.0	Perio	Perio-E05
+Prevotella sp. oral taxon 306	712461	20.0	Perio	Perio-E05
+Prevotella baroniae	305719	20.0	Perio	Perio-E05
+Actinomyces timonensis	1288391	20.0	Perio	Perio-E05
+Prevotella multisaccharivorax	310514	20.0	Perio	Perio-E05
+Rothia mucilaginosa	43675	1332.0765	Perio	Perio-E06
+Haemophilus parainfluenzae	729	727.22998	Perio	Perio-E06
+Prevotella histicola	470565	668.82912	Perio	Perio-E06
+Veillonella atypica	39777	558.77608	Perio	Perio-E06
+Prevotella melaninogenica	28132	487.79283	Perio	Perio-E06
+Streptococcus salivarius	1304	484.24434	Perio	Perio-E06
+Veillonella dispar	39778	407.67847	Perio	Perio-E06
+Prevotella sp. oral taxon 473	712469	384.59702	Perio	Perio-E06
+Prevotella pallens	60133	371.70527	Perio	Perio-E06
+Neisseria mucosa	488	341.71381	Perio	Perio-E06
+Stomatobaculum longum	796942	334.76102	Perio	Perio-E06
+Streptococcus parasanguinis	1318	315.52166	Perio	Perio-E06
+Streptococcus mitis	28037	286.38536	Perio	Perio-E06
+Veillonella sp. oral taxon 158	671228	273.19042	Perio	Perio-E06
+Actinomyces graevenitzii	55565	248.20509	Perio	Perio-E06
+Fusobacterium periodonticum	860	239.32201	Perio	Perio-E06
+Porphyromonas sp. oral taxon 279	712438	237.74873	Perio	Perio-E06
+Leptotrichia wadei	157687	208.15167	Perio	Perio-E06
+Leptotrichia sp. oral taxon 215	712359	181.36407	Perio	Perio-E06
+Gemella sanguinis	84135	172.13361	Perio	Perio-E06
+Actinomyces sp. oral taxon 172	712118	169.59457	Perio	Perio-E06
+Streptococcus infantis	68892	151.52611	Perio	Perio-E06
+Oribacterium sinus	237576	144.40056	Perio	Perio-E06
+candidate division TM7 single-cell isolate TM7a	447454	125.16525	Perio	Perio-E06
+Neisseria subflava	28449	107.99633	Perio	Perio-E06
+Corynebacterium matruchotii	43768	104.09628	Perio	Perio-E06
+Actinomyces odontolyticus	1660	88.97645	Perio	Perio-E06
+Lachnospiraceae bacterium oral taxon 082	712976	87.44138	Perio	Perio-E06
+Megasphaera micronuciformis	187326	80.0	Perio	Perio-E06
+Leptotrichia shahii	157691	80.0	Perio	Perio-E06
+Fusobacterium nucleatum	851	75.49195	Perio	Perio-E06
+Peptostreptococcus stomatis	341694	65.83926	Perio	Perio-E06
+Selenomonas sp. oral taxon 149	712535	63.4895	Perio	Perio-E06
+Tannerella sp. oral taxon BU063	712710	62.05395	Perio	Perio-E06
+Leptotrichia buccalis	40542	49.98926	Perio	Perio-E06
+Prevotella buccalis	28127	45.549	Perio	Perio-E06
+Prevotella scopos	589437	44.96235	Perio	Perio-E06
+Atopobium parvulum	1382	44.47978	Perio	Perio-E06
+Selenomonas sputigena	69823	44.43365	Perio	Perio-E06
+Gemella haemolysans	1379	43.79793	Perio	Perio-E06
+Granulicatella adiacens	46124	43.45429	Perio	Perio-E06
+Porphyromonas gingivalis	837	43.35168	Perio	Perio-E06
+Polynucleobacter necessarius	576610	43.2489	Perio	Perio-E06
+Streptococcus australis	113107	43.10739	Perio	Perio-E06
+Lachnoanaerobaculum saburreum	467210	40.0	Perio	Perio-E06
+Prevotella sp. oral taxon 299	652716	28.67037	Perio	Perio-E06
+Fusobacterium sp. oral taxon 370	712288	26.98221	Perio	Perio-E06
+Capnocytophaga sp. oral taxon 329	706435	26.63675	Perio	Perio-E06
+Filifactor alocis	143361	25.6442	Perio	Perio-E06
+Mycoplasma salivarium	2124	25.00751	Perio	Perio-E06
+Streptococcus oligofermentans	195041	24.82652	Perio	Perio-E06
+Bacteroides pyogenes	310300	24.64912	Perio	Perio-E06
+Aggregatibacter aphrophilus	732	24.63747	Perio	Perio-E06
+Alloprevotella tannerae	76122	24.3504	Perio	Perio-E06
+Prevotella saccharolytica	633701	23.77119	Perio	Perio-E06
+Prevotella salivae	228604	23.56757	Perio	Perio-E06
+Veillonella parvula	29466	23.22823	Perio	Perio-E06
+Prevotella veroralis	28137	22.80346	Perio	Perio-E06
+Leptotrichia goodfellowii	157692	22.71945	Perio	Perio-E06
+Actinomyces sp. oral taxon 180	651609	22.17751	Perio	Perio-E06
+Neisseria meningitidis	487	20.0	Perio	Perio-E06
+Streptococcus gordonii	1302	20.0	Perio	Perio-E06
+Campylobacter concisus	199	20.0	Perio	Perio-E06
+Abiotrophia defectiva	46125	20.0	Perio	Perio-E06
+Selenomonas flueggei	135080	20.0	Perio	Perio-E06
+Prevotella oris	28135	20.0	Perio	Perio-E06
+Streptococcus cristatus	45634	20.0	Perio	Perio-E06
+Lachnospiraceae bacterium oral taxon 500	712991	20.0	Perio	Perio-E06
+Prevotella nigrescens	28133	20.0	Perio	Perio-E06
+Alloprevotella rava	671218	20.0	Perio	Perio-E06
+Prevotella sp. oral taxon 306	712461	20.0	Perio	Perio-E06
+Actinomyces massiliensis	461393	20.0	Perio	Perio-E06
+Selenomonas sp. oral taxon 138	712532	20.0	Perio	Perio-E06
+Prevotella baroniae	305719	20.0	Perio	Perio-E06
+Actinomyces timonensis	1288391	20.0	Perio	Perio-E06
+Prevotella multisaccharivorax	310514	20.0	Perio	Perio-E06
+Mycoplasma mycoides	2102	20.0	Perio	Perio-E06
+Rothia mucilaginosa	43675	1178.89241	Perio	Perio-E07
+Prevotella histicola	470565	683.41855	Perio	Perio-E07
+Haemophilus parainfluenzae	729	604.53362	Perio	Perio-E07
+Veillonella atypica	39777	570.69282	Perio	Perio-E07
+Prevotella melaninogenica	28132	517.57003	Perio	Perio-E07
+Streptococcus salivarius	1304	515.75482	Perio	Perio-E07
+Veillonella dispar	39778	405.41116	Perio	Perio-E07
+Prevotella pallens	60133	394.55597	Perio	Perio-E07
+Prevotella sp. oral taxon 473	712469	359.81318	Perio	Perio-E07
+Streptococcus parasanguinis	1318	320.76919	Perio	Perio-E07
+Stomatobaculum longum	796942	317.86529	Perio	Perio-E07
+Neisseria mucosa	488	291.46076	Perio	Perio-E07
+Streptococcus mitis	28037	276.52343	Perio	Perio-E07
+Actinomyces graevenitzii	55565	254.19688	Perio	Perio-E07
+Veillonella sp. oral taxon 158	671228	250.48666	Perio	Perio-E07
+Leptotrichia wadei	157687	240.38986	Perio	Perio-E07
+Fusobacterium periodonticum	860	208.38225	Perio	Perio-E07
+Porphyromonas sp. oral taxon 279	712438	189.05124	Perio	Perio-E07
+Actinomyces sp. oral taxon 172	712118	176.14213	Perio	Perio-E07
+Leptotrichia sp. oral taxon 215	712359	169.59425	Perio	Perio-E07
+Streptococcus infantis	68892	151.97884	Perio	Perio-E07
+Gemella sanguinis	84135	143.33416	Perio	Perio-E07
+Oribacterium sinus	237576	137.05851	Perio	Perio-E07
+candidate division TM7 single-cell isolate TM7a	447454	130.82385	Perio	Perio-E07
+Corynebacterium matruchotii	43768	118.72381	Perio	Perio-E07
+Neisseria subflava	28449	99.88732	Perio	Perio-E07
+Actinomyces odontolyticus	1660	95.85682	Perio	Perio-E07
+Leptotrichia shahii	157691	90.81397	Perio	Perio-E07
+Lachnospiraceae bacterium oral taxon 082	712976	87.34152	Perio	Perio-E07
+Megasphaera micronuciformis	187326	87.06689	Perio	Perio-E07
+Tannerella sp. oral taxon BU063	712710	70.90732	Perio	Perio-E07
+Fusobacterium nucleatum	851	69.64106	Perio	Perio-E07
+Selenomonas sp. oral taxon 149	712535	69.44093	Perio	Perio-E07
+Peptostreptococcus stomatis	341694	60.0	Perio	Perio-E07
+Prevotella scopos	589437	48.5084	Perio	Perio-E07
+Selenomonas sputigena	69823	47.94999	Perio	Perio-E07
+Leptotrichia buccalis	40542	47.73189	Perio	Perio-E07
+Lachnoanaerobaculum saburreum	467210	47.42486	Perio	Perio-E07
+Porphyromonas gingivalis	837	44.53272	Perio	Perio-E07
+Atopobium parvulum	1382	43.41322	Perio	Perio-E07
+Gemella haemolysans	1379	42.21061	Perio	Perio-E07
+Prevotella buccalis	28127	40.93123	Perio	Perio-E07
+Granulicatella adiacens	46124	40.0	Perio	Perio-E07
+Streptococcus australis	113107	40.0	Perio	Perio-E07
+Polynucleobacter necessarius	576610	40.0	Perio	Perio-E07
+Prevotella sp. oral taxon 299	652716	26.93899	Perio	Perio-E07
+Selenomonas flueggei	135080	26.03745	Perio	Perio-E07
+Mycoplasma salivarium	2124	25.51082	Perio	Perio-E07
+Streptococcus oligofermentans	195041	25.09109	Perio	Perio-E07
+Prevotella saccharolytica	633701	24.33854	Perio	Perio-E07
+Fusobacterium sp. oral taxon 370	712288	23.70106	Perio	Perio-E07
+Prevotella veroralis	28137	23.53456	Perio	Perio-E07
+Selenomonas sp. oral taxon 138	712532	23.49143	Perio	Perio-E07
+Capnocytophaga sp. oral taxon 329	706435	23.48943	Perio	Perio-E07
+Prevotella baroniae	305719	23.07488	Perio	Perio-E07
+Bacteroides pyogenes	310300	22.91559	Perio	Perio-E07
+Mycoplasma mycoides	2102	22.88994	Perio	Perio-E07
+Actinomyces massiliensis	461393	22.74605	Perio	Perio-E07
+Campylobacter concisus	199	22.40852	Perio	Perio-E07
+Streptococcus cristatus	45634	22.2509	Perio	Perio-E07
+Prevotella sp. oral taxon 306	712461	21.10836	Perio	Perio-E07
+Neisseria meningitidis	487	20.0	Perio	Perio-E07
+Streptococcus gordonii	1302	20.0	Perio	Perio-E07
+Veillonella parvula	29466	20.0	Perio	Perio-E07
+Filifactor alocis	143361	20.0	Perio	Perio-E07
+Abiotrophia defectiva	46125	20.0	Perio	Perio-E07
+Alloprevotella tannerae	76122	20.0	Perio	Perio-E07
+Leptotrichia goodfellowii	157692	20.0	Perio	Perio-E07
+Prevotella oris	28135	20.0	Perio	Perio-E07
+Actinomyces sp. oral taxon 180	651609	20.0	Perio	Perio-E07
+Prevotella salivae	228604	20.0	Perio	Perio-E07
+Lachnospiraceae bacterium oral taxon 500	712991	20.0	Perio	Perio-E07
+Prevotella nigrescens	28133	20.0	Perio	Perio-E07
+Aggregatibacter aphrophilus	732	20.0	Perio	Perio-E07
+Alloprevotella rava	671218	20.0	Perio	Perio-E07
+Actinomyces timonensis	1288391	20.0	Perio	Perio-E07
+Prevotella multisaccharivorax	310514	20.0	Perio	Perio-E07
+Rothia mucilaginosa	43675	1414.41002	Perio	Perio-E08
+Prevotella histicola	470565	756.16771	Perio	Perio-E08
+Haemophilus parainfluenzae	729	641.19155	Perio	Perio-E08
+Veillonella atypica	39777	618.06825	Perio	Perio-E08
+Prevotella melaninogenica	28132	569.8986	Perio	Perio-E08
+Streptococcus salivarius	1304	536.34071	Perio	Perio-E08
+Veillonella dispar	39778	441.04246	Perio	Perio-E08
+Prevotella pallens	60133	436.55106	Perio	Perio-E08
+Prevotella sp. oral taxon 473	712469	380.23403	Perio	Perio-E08
+Stomatobaculum longum	796942	339.33203	Perio	Perio-E08
+Streptococcus parasanguinis	1318	338.91014	Perio	Perio-E08
+Streptococcus mitis	28037	302.51387	Perio	Perio-E08
+Neisseria mucosa	488	298.08042	Perio	Perio-E08
+Actinomyces graevenitzii	55565	281.29129	Perio	Perio-E08
+Veillonella sp. oral taxon 158	671228	273.4463	Perio	Perio-E08
+Leptotrichia wadei	157687	255.66722	Perio	Perio-E08
+Fusobacterium periodonticum	860	226.78261	Perio	Perio-E08
+Actinomyces sp. oral taxon 172	712118	198.06192	Perio	Perio-E08
+Leptotrichia sp. oral taxon 215	712359	195.70931	Perio	Perio-E08
+Porphyromonas sp. oral taxon 279	712438	185.63646	Perio	Perio-E08
+Streptococcus infantis	68892	162.08148	Perio	Perio-E08
+Gemella sanguinis	84135	156.68197	Perio	Perio-E08
+candidate division TM7 single-cell isolate TM7a	447454	145.37859	Perio	Perio-E08
+Corynebacterium matruchotii	43768	134.96388	Perio	Perio-E08
+Oribacterium sinus	237576	132.83583	Perio	Perio-E08
+Actinomyces odontolyticus	1660	105.95048	Perio	Perio-E08
+Leptotrichia shahii	157691	104.77541	Perio	Perio-E08
+Neisseria subflava	28449	101.08404	Perio	Perio-E08
+Lachnospiraceae bacterium oral taxon 082	712976	99.50171	Perio	Perio-E08
+Megasphaera micronuciformis	187326	93.69298	Perio	Perio-E08
+Tannerella sp. oral taxon BU063	712710	79.9576	Perio	Perio-E08
+Selenomonas sp. oral taxon 149	712535	76.03305	Perio	Perio-E08
+Fusobacterium nucleatum	851	74.88143	Perio	Perio-E08
+Peptostreptococcus stomatis	341694	63.79685	Perio	Perio-E08
+Leptotrichia buccalis	40542	56.56473	Perio	Perio-E08
+Prevotella scopos	589437	55.48992	Perio	Perio-E08
+Lachnoanaerobaculum saburreum	467210	55.47629	Perio	Perio-E08
+Selenomonas sputigena	69823	53.17729	Perio	Perio-E08
+Streptococcus australis	113107	45.72413	Perio	Perio-E08
+Prevotella buccalis	28127	45.57889	Perio	Perio-E08
+Granulicatella adiacens	46124	44.09866	Perio	Perio-E08
+Atopobium parvulum	1382	42.90978	Perio	Perio-E08
+Porphyromonas gingivalis	837	40.0	Perio	Perio-E08
+Gemella haemolysans	1379	40.0	Perio	Perio-E08
+Polynucleobacter necessarius	576610	40.0	Perio	Perio-E08
+Selenomonas flueggei	135080	29.18208	Perio	Perio-E08
+Prevotella sp. oral taxon 299	652716	29.07707	Perio	Perio-E08
+Mycoplasma salivarium	2124	27.08673	Perio	Perio-E08
+Streptococcus oligofermentans	195041	26.56853	Perio	Perio-E08
+Prevotella nigrescens	28133	26.41454	Perio	Perio-E08
+Fusobacterium sp. oral taxon 370	712288	26.25929	Perio	Perio-E08
+Streptococcus cristatus	45634	25.61785	Perio	Perio-E08
+Prevotella veroralis	28137	25.32483	Perio	Perio-E08
+Prevotella sp. oral taxon 306	712461	25.03254	Perio	Perio-E08
+Mycoplasma mycoides	2102	24.69981	Perio	Perio-E08
+Veillonella parvula	29466	24.68457	Perio	Perio-E08
+Prevotella saccharolytica	633701	24.57417	Perio	Perio-E08
+Prevotella baroniae	305719	24.45223	Perio	Perio-E08
+Actinomyces timonensis	1288391	24.3169	Perio	Perio-E08
+Selenomonas sp. oral taxon 138	712532	24.2909	Perio	Perio-E08
+Bacteroides pyogenes	310300	23.98208	Perio	Perio-E08
+Prevotella oris	28135	23.86576	Perio	Perio-E08
+Streptococcus gordonii	1302	23.65694	Perio	Perio-E08
+Prevotella salivae	228604	23.6185	Perio	Perio-E08
+Capnocytophaga sp. oral taxon 329	706435	23.4714	Perio	Perio-E08
+Actinomyces massiliensis	461393	23.40519	Perio	Perio-E08
+Campylobacter concisus	199	23.24152	Perio	Perio-E08
+Neisseria meningitidis	487	23.18771	Perio	Perio-E08
+Actinomyces sp. oral taxon 180	651609	22.96602	Perio	Perio-E08
+Leptotrichia goodfellowii	157692	22.51868	Perio	Perio-E08
+Filifactor alocis	143361	22.44887	Perio	Perio-E08
+Abiotrophia defectiva	46125	20.0	Perio	Perio-E08
+Alloprevotella tannerae	76122	20.0	Perio	Perio-E08
+Lachnospiraceae bacterium oral taxon 500	712991	20.0	Perio	Perio-E08
+Aggregatibacter aphrophilus	732	20.0	Perio	Perio-E08
+Alloprevotella rava	671218	20.0	Perio	Perio-E08
+Prevotella multisaccharivorax	310514	20.0	Perio	Perio-E08
+Rothia mucilaginosa	43675	1331.96715	Perio	Perio-E09
+Prevotella histicola	470565	698.5337	Perio	Perio-E09
+Haemophilus parainfluenzae	729	638.65187	Perio	Perio-E09
+Veillonella atypica	39777	594.83584	Perio	Perio-E09
+Prevotella melaninogenica	28132	555.6609	Perio	Perio-E09
+Streptococcus salivarius	1304	527.37524	Perio	Perio-E09
+Veillonella dispar	39778	427.36408	Perio	Perio-E09
+Prevotella pallens	60133	371.32313	Perio	Perio-E09
+Stomatobaculum longum	796942	345.38023	Perio	Perio-E09
+Prevotella sp. oral taxon 473	712469	344.98272	Perio	Perio-E09
+Streptococcus parasanguinis	1318	320.26678	Perio	Perio-E09
+Neisseria mucosa	488	309.40906	Perio	Perio-E09
+Streptococcus mitis	28037	285.36211	Perio	Perio-E09
+Actinomyces graevenitzii	55565	280.1423	Perio	Perio-E09
+Veillonella sp. oral taxon 158	671228	251.60925	Perio	Perio-E09
+Leptotrichia wadei	157687	213.47963	Perio	Perio-E09
+Porphyromonas sp. oral taxon 279	712438	197.66309	Perio	Perio-E09
+Fusobacterium periodonticum	860	192.21238	Perio	Perio-E09
+Leptotrichia sp. oral taxon 215	712359	167.4887	Perio	Perio-E09
+Actinomyces sp. oral taxon 172	712118	160.0	Perio	Perio-E09
+Streptococcus infantis	68892	155.43476	Perio	Perio-E09
+Gemella sanguinis	84135	144.06899	Perio	Perio-E09
+Corynebacterium matruchotii	43768	129.00671	Perio	Perio-E09
+candidate division TM7 single-cell isolate TM7a	447454	126.76144	Perio	Perio-E09
+Oribacterium sinus	237576	123.68119	Perio	Perio-E09
+Neisseria subflava	28449	98.21812	Perio	Perio-E09
+Lachnospiraceae bacterium oral taxon 082	712976	94.78308	Perio	Perio-E09
+Actinomyces odontolyticus	1660	87.91704	Perio	Perio-E09
+Leptotrichia shahii	157691	84.15688	Perio	Perio-E09
+Megasphaera micronuciformis	187326	80.0	Perio	Perio-E09
+Fusobacterium nucleatum	851	72.97751	Perio	Perio-E09
+Tannerella sp. oral taxon BU063	712710	61.05806	Perio	Perio-E09
+Selenomonas sp. oral taxon 149	712535	60.0	Perio	Perio-E09
+Peptostreptococcus stomatis	341694	60.0	Perio	Perio-E09
+Lachnoanaerobaculum saburreum	467210	55.14575	Perio	Perio-E09
+Prevotella scopos	589437	51.87495	Perio	Perio-E09
+Leptotrichia buccalis	40542	48.43888	Perio	Perio-E09
+Streptococcus australis	113107	45.53293	Perio	Perio-E09
+Prevotella buccalis	28127	43.4557	Perio	Perio-E09
+Granulicatella adiacens	46124	42.79129	Perio	Perio-E09
+Polynucleobacter necessarius	576610	42.00292	Perio	Perio-E09
+Porphyromonas gingivalis	837	40.0	Perio	Perio-E09
+Atopobium parvulum	1382	40.0	Perio	Perio-E09
+Gemella haemolysans	1379	40.0	Perio	Perio-E09
+Selenomonas sputigena	69823	40.0	Perio	Perio-E09
+Streptococcus oligofermentans	195041	25.22383	Perio	Perio-E09
+Actinomyces timonensis	1288391	25.00844	Perio	Perio-E09
+Veillonella parvula	29466	24.83576	Perio	Perio-E09
+Mycoplasma salivarium	2124	24.30228	Perio	Perio-E09
+Fusobacterium sp. oral taxon 370	712288	24.18965	Perio	Perio-E09
+Actinomyces massiliensis	461393	23.91656	Perio	Perio-E09
+Prevotella baroniae	305719	23.72781	Perio	Perio-E09
+Bacteroides pyogenes	310300	23.69554	Perio	Perio-E09
+Prevotella sp. oral taxon 306	712461	23.15958	Perio	Perio-E09
+Streptococcus cristatus	45634	22.89681	Perio	Perio-E09
+Prevotella salivae	228604	22.62524	Perio	Perio-E09
+Prevotella veroralis	28137	22.53222	Perio	Perio-E09
+Campylobacter concisus	199	22.46038	Perio	Perio-E09
+Filifactor alocis	143361	22.08734	Perio	Perio-E09
+Prevotella sp. oral taxon 299	652716	22.06339	Perio	Perio-E09
+Neisseria meningitidis	487	20.0	Perio	Perio-E09
+Streptococcus gordonii	1302	20.0	Perio	Perio-E09
+Abiotrophia defectiva	46125	20.0	Perio	Perio-E09
+Selenomonas flueggei	135080	20.0	Perio	Perio-E09
+Alloprevotella tannerae	76122	20.0	Perio	Perio-E09
+Leptotrichia goodfellowii	157692	20.0	Perio	Perio-E09
+Prevotella oris	28135	20.0	Perio	Perio-E09
+Actinomyces sp. oral taxon 180	651609	20.0	Perio	Perio-E09
+Lachnospiraceae bacterium oral taxon 500	712991	20.0	Perio	Perio-E09
+Capnocytophaga sp. oral taxon 329	706435	20.0	Perio	Perio-E09
+Prevotella nigrescens	28133	20.0	Perio	Perio-E09
+Aggregatibacter aphrophilus	732	20.0	Perio	Perio-E09
+Alloprevotella rava	671218	20.0	Perio	Perio-E09
+Selenomonas sp. oral taxon 138	712532	20.0	Perio	Perio-E09
+Prevotella saccharolytica	633701	20.0	Perio	Perio-E09
+Prevotella multisaccharivorax	310514	20.0	Perio	Perio-E09
+Mycoplasma mycoides	2102	20.0	Perio	Perio-E09
+Rothia mucilaginosa	43675	1300.4976	Perio	Perio-E10
+Prevotella histicola	470565	690.641	Perio	Perio-E10
+Haemophilus parainfluenzae	729	607.3614	Perio	Perio-E10
+Veillonella atypica	39777	582.15354	Perio	Perio-E10
+Prevotella melaninogenica	28132	497.32565	Perio	Perio-E10
+Streptococcus salivarius	1304	489.01063	Perio	Perio-E10
+Veillonella dispar	39778	417.32385	Perio	Perio-E10
+Prevotella pallens	60133	383.63818	Perio	Perio-E10
+Prevotella sp. oral taxon 473	712469	344.88386	Perio	Perio-E10
+Streptococcus parasanguinis	1318	319.57232	Perio	Perio-E10
+Stomatobaculum longum	796942	311.19735	Perio	Perio-E10
+Neisseria mucosa	488	283.58761	Perio	Perio-E10
+Streptococcus mitis	28037	271.65315	Perio	Perio-E10
+Actinomyces graevenitzii	55565	256.19948	Perio	Perio-E10
+Veillonella sp. oral taxon 158	671228	237.15134	Perio	Perio-E10
+Leptotrichia wadei	157687	217.55357	Perio	Perio-E10
+Porphyromonas sp. oral taxon 279	712438	187.83977	Perio	Perio-E10
+Fusobacterium periodonticum	860	180.0	Perio	Perio-E10
+Leptotrichia sp. oral taxon 215	712359	168.61856	Perio	Perio-E10
+Actinomyces sp. oral taxon 172	712118	162.34743	Perio	Perio-E10
+Streptococcus infantis	68892	146.26596	Perio	Perio-E10
+Gemella sanguinis	84135	140.0	Perio	Perio-E10
+candidate division TM7 single-cell isolate TM7a	447454	126.52338	Perio	Perio-E10
+Oribacterium sinus	237576	120.0	Perio	Perio-E10
+Corynebacterium matruchotii	43768	110.17653	Perio	Perio-E10
+Actinomyces odontolyticus	1660	85.85874	Perio	Perio-E10
+Leptotrichia shahii	157691	85.0232	Perio	Perio-E10
+Neisseria subflava	28449	83.44954	Perio	Perio-E10
+Megasphaera micronuciformis	187326	83.31328	Perio	Perio-E10
+Lachnospiraceae bacterium oral taxon 082	712976	80.0	Perio	Perio-E10
+Selenomonas sp. oral taxon 149	712535	70.60403	Perio	Perio-E10
+Peptostreptococcus stomatis	341694	62.81015	Perio	Perio-E10
+Fusobacterium nucleatum	851	60.0	Perio	Perio-E10
+Tannerella sp. oral taxon BU063	712710	60.0	Perio	Perio-E10
+Prevotella scopos	589437	50.2481	Perio	Perio-E10
+Selenomonas sputigena	69823	48.06186	Perio	Perio-E10
+Leptotrichia buccalis	40542	46.75867	Perio	Perio-E10
+Streptococcus australis	113107	44.53272	Perio	Perio-E10
+Porphyromonas gingivalis	837	40.0	Perio	Perio-E10
+Atopobium parvulum	1382	40.0	Perio	Perio-E10
+Gemella haemolysans	1379	40.0	Perio	Perio-E10
+Granulicatella adiacens	46124	40.0	Perio	Perio-E10
+Prevotella buccalis	28127	40.0	Perio	Perio-E10
+Lachnoanaerobaculum saburreum	467210	40.0	Perio	Perio-E10
+Polynucleobacter necessarius	576610	40.0	Perio	Perio-E10
+Selenomonas flueggei	135080	27.46079	Perio	Perio-E10
+Mycoplasma salivarium	2124	25.95424	Perio	Perio-E10
+Prevotella sp. oral taxon 299	652716	25.90738	Perio	Perio-E10
+Streptococcus oligofermentans	195041	24.43661	Perio	Perio-E10
+Prevotella nigrescens	28133	23.94468	Perio	Perio-E10
+Prevotella veroralis	28137	23.48495	Perio	Perio-E10
+Actinomyces timonensis	1288391	22.8641	Perio	Perio-E10
+Streptococcus gordonii	1302	22.74788	Perio	Perio-E10
+Prevotella baroniae	305719	22.32003	Perio	Perio-E10
+Prevotella sp. oral taxon 306	712461	21.73739	Perio	Perio-E10
+Prevotella salivae	228604	21.06839	Perio	Perio-E10
+Neisseria meningitidis	487	20.0	Perio	Perio-E10
+Veillonella parvula	29466	20.0	Perio	Perio-E10
+Filifactor alocis	143361	20.0	Perio	Perio-E10
+Campylobacter concisus	199	20.0	Perio	Perio-E10
+Abiotrophia defectiva	46125	20.0	Perio	Perio-E10
+Alloprevotella tannerae	76122	20.0	Perio	Perio-E10
+Leptotrichia goodfellowii	157692	20.0	Perio	Perio-E10
+Prevotella oris	28135	20.0	Perio	Perio-E10
+Actinomyces sp. oral taxon 180	651609	20.0	Perio	Perio-E10
+Streptococcus cristatus	45634	20.0	Perio	Perio-E10
+Lachnospiraceae bacterium oral taxon 500	712991	20.0	Perio	Perio-E10
+Capnocytophaga sp. oral taxon 329	706435	20.0	Perio	Perio-E10
+Aggregatibacter aphrophilus	732	20.0	Perio	Perio-E10
+Alloprevotella rava	671218	20.0	Perio	Perio-E10
+Fusobacterium sp. oral taxon 370	712288	20.0	Perio	Perio-E10
+Actinomyces massiliensis	461393	20.0	Perio	Perio-E10
+Selenomonas sp. oral taxon 138	712532	20.0	Perio	Perio-E10
+Prevotella saccharolytica	633701	20.0	Perio	Perio-E10
+Bacteroides pyogenes	310300	20.0	Perio	Perio-E10
+Prevotella multisaccharivorax	310514	20.0	Perio	Perio-E10
+Mycoplasma mycoides	2102	20.0	Perio	Perio-E10
+Rothia mucilaginosa	43675	1356.55371	Perio	Perio-E11
+Prevotella histicola	470565	709.07062	Perio	Perio-E11
+Haemophilus parainfluenzae	729	617.01438	Perio	Perio-E11
+Veillonella atypica	39777	597.1883	Perio	Perio-E11
+Streptococcus salivarius	1304	554.33122	Perio	Perio-E11
+Prevotella melaninogenica	28132	527.77383	Perio	Perio-E11
+Veillonella dispar	39778	414.34088	Perio	Perio-E11
+Prevotella pallens	60133	389.75663	Perio	Perio-E11
+Prevotella sp. oral taxon 473	712469	347.972	Perio	Perio-E11
+Streptococcus parasanguinis	1318	347.77132	Perio	Perio-E11
+Stomatobaculum longum	796942	333.92045	Perio	Perio-E11
+Neisseria mucosa	488	312.40904	Perio	Perio-E11
+Streptococcus mitis	28037	280.01591	Perio	Perio-E11
+Actinomyces graevenitzii	55565	267.71882	Perio	Perio-E11
+Leptotrichia wadei	157687	254.20822	Perio	Perio-E11
+Veillonella sp. oral taxon 158	671228	244.14879	Perio	Perio-E11
+Fusobacterium periodonticum	860	202.22593	Perio	Perio-E11
+Porphyromonas sp. oral taxon 279	712438	183.53225	Perio	Perio-E11
+Leptotrichia sp. oral taxon 215	712359	176.97962	Perio	Perio-E11
+Actinomyces sp. oral taxon 172	712118	173.38767	Perio	Perio-E11
+Gemella sanguinis	84135	167.37845	Perio	Perio-E11
+Streptococcus infantis	68892	150.99247	Perio	Perio-E11
+candidate division TM7 single-cell isolate TM7a	447454	142.68455	Perio	Perio-E11
+Oribacterium sinus	237576	124.24252	Perio	Perio-E11
+Corynebacterium matruchotii	43768	109.8209	Perio	Perio-E11
+Leptotrichia shahii	157691	102.86568	Perio	Perio-E11
+Lachnospiraceae bacterium oral taxon 082	712976	97.46963	Perio	Perio-E11
+Neisseria subflava	28449	96.47706	Perio	Perio-E11
+Actinomyces odontolyticus	1660	94.66548	Perio	Perio-E11
+Megasphaera micronuciformis	187326	91.31189	Perio	Perio-E11
+Selenomonas sp. oral taxon 149	712535	73.10669	Perio	Perio-E11
+Fusobacterium nucleatum	851	70.36871	Perio	Perio-E11
+Peptostreptococcus stomatis	341694	62.3521	Perio	Perio-E11
+Tannerella sp. oral taxon BU063	712710	61.69294	Perio	Perio-E11
+Prevotella scopos	589437	49.34104	Perio	Perio-E11
+Leptotrichia buccalis	40542	48.96619	Perio	Perio-E11
+Selenomonas sputigena	69823	48.85709	Perio	Perio-E11
+Streptococcus australis	113107	46.91155	Perio	Perio-E11
+Lachnoanaerobaculum saburreum	467210	46.43759	Perio	Perio-E11
+Granulicatella adiacens	46124	43.97789	Perio	Perio-E11
+Atopobium parvulum	1382	43.11905	Perio	Perio-E11
+Prevotella buccalis	28127	43.06556	Perio	Perio-E11
+Porphyromonas gingivalis	837	42.55243	Perio	Perio-E11
+Gemella haemolysans	1379	40.0	Perio	Perio-E11
+Polynucleobacter necessarius	576610	40.0	Perio	Perio-E11
+Selenomonas flueggei	135080	29.08233	Perio	Perio-E11
+Prevotella sp. oral taxon 299	652716	26.81577	Perio	Perio-E11
+Streptococcus oligofermentans	195041	26.74277	Perio	Perio-E11
+Prevotella nigrescens	28133	24.64027	Perio	Perio-E11
+Mycoplasma salivarium	2124	23.98672	Perio	Perio-E11
+Streptococcus gordonii	1302	23.83151	Perio	Perio-E11
+Prevotella baroniae	305719	23.78399	Perio	Perio-E11
+Mycoplasma mycoides	2102	23.74011	Perio	Perio-E11
+Prevotella saccharolytica	633701	23.6126	Perio	Perio-E11
+Prevotella veroralis	28137	23.52009	Perio	Perio-E11
+Fusobacterium sp. oral taxon 370	712288	23.06763	Perio	Perio-E11
+Prevotella salivae	228604	22.8961	Perio	Perio-E11
+Streptococcus cristatus	45634	22.59756	Perio	Perio-E11
+Capnocytophaga sp. oral taxon 329	706435	22.45779	Perio	Perio-E11
+Selenomonas sp. oral taxon 138	712532	20.7768	Perio	Perio-E11
+Filifactor alocis	143361	20.47927	Perio	Perio-E11
+Neisseria meningitidis	487	20.0	Perio	Perio-E11
+Veillonella parvula	29466	20.0	Perio	Perio-E11
+Campylobacter concisus	199	20.0	Perio	Perio-E11
+Abiotrophia defectiva	46125	20.0	Perio	Perio-E11
+Alloprevotella tannerae	76122	20.0	Perio	Perio-E11
+Leptotrichia goodfellowii	157692	20.0	Perio	Perio-E11
+Prevotella oris	28135	20.0	Perio	Perio-E11
+Actinomyces sp. oral taxon 180	651609	20.0	Perio	Perio-E11
+Lachnospiraceae bacterium oral taxon 500	712991	20.0	Perio	Perio-E11
+Aggregatibacter aphrophilus	732	20.0	Perio	Perio-E11
+Alloprevotella rava	671218	20.0	Perio	Perio-E11
+Prevotella sp. oral taxon 306	712461	20.0	Perio	Perio-E11
+Actinomyces massiliensis	461393	20.0	Perio	Perio-E11
+Bacteroides pyogenes	310300	20.0	Perio	Perio-E11
+Actinomyces timonensis	1288391	20.0	Perio	Perio-E11
+Prevotella multisaccharivorax	310514	20.0	Perio	Perio-E11
+Rothia mucilaginosa	43675	1345.26443	Perio	Perio-E12
+Haemophilus parainfluenzae	729	751.6048	Perio	Perio-E12
+Prevotella histicola	470565	738.72726	Perio	Perio-E12
+Prevotella melaninogenica	28132	610.72954	Perio	Perio-E12
+Veillonella atypica	39777	605.90092	Perio	Perio-E12
+Streptococcus salivarius	1304	508.09546	Perio	Perio-E12
+Prevotella pallens	60133	473.03673	Perio	Perio-E12
+Veillonella dispar	39778	450.2659	Perio	Perio-E12
+Prevotella sp. oral taxon 473	712469	438.32295	Perio	Perio-E12
+Neisseria mucosa	488	369.81904	Perio	Perio-E12
+Streptococcus parasanguinis	1318	331.85151	Perio	Perio-E12
+Stomatobaculum longum	796942	326.27713	Perio	Perio-E12
+Streptococcus mitis	28037	309.9301	Perio	Perio-E12
+Actinomyces graevenitzii	55565	264.62335	Perio	Perio-E12
+Veillonella sp. oral taxon 158	671228	250.02438	Perio	Perio-E12
+Fusobacterium periodonticum	860	242.6382	Perio	Perio-E12
+Leptotrichia wadei	157687	223.58705	Perio	Perio-E12
+Leptotrichia sp. oral taxon 215	712359	205.00571	Perio	Perio-E12
+Porphyromonas sp. oral taxon 279	712438	198.82785	Perio	Perio-E12
+Gemella sanguinis	84135	174.17206	Perio	Perio-E12
+Actinomyces sp. oral taxon 172	712118	171.55444	Perio	Perio-E12
+Streptococcus infantis	68892	158.23655	Perio	Perio-E12
+candidate division TM7 single-cell isolate TM7a	447454	131.76085	Perio	Perio-E12
+Oribacterium sinus	237576	129.12765	Perio	Perio-E12
+Neisseria subflava	28449	111.48136	Perio	Perio-E12
+Corynebacterium matruchotii	43768	106.63245	Perio	Perio-E12
+Lachnospiraceae bacterium oral taxon 082	712976	95.07676	Perio	Perio-E12
+Megasphaera micronuciformis	187326	93.56552	Perio	Perio-E12
+Actinomyces odontolyticus	1660	91.46616	Perio	Perio-E12
+Leptotrichia shahii	157691	89.36623	Perio	Perio-E12
+Fusobacterium nucleatum	851	78.61823	Perio	Perio-E12
+Peptostreptococcus stomatis	341694	73.14272	Perio	Perio-E12
+Selenomonas sp. oral taxon 149	712535	67.90937	Perio	Perio-E12
+Tannerella sp. oral taxon BU063	712710	67.17775	Perio	Perio-E12
+Prevotella scopos	589437	56.44449	Perio	Perio-E12
+Prevotella buccalis	28127	52.71856	Perio	Perio-E12
+Selenomonas sputigena	69823	50.17918	Perio	Perio-E12
+Leptotrichia buccalis	40542	48.16501	Perio	Perio-E12
+Granulicatella adiacens	46124	47.95171	Perio	Perio-E12
+Gemella haemolysans	1379	44.32022	Perio	Perio-E12
+Polynucleobacter necessarius	576610	43.27736	Perio	Perio-E12
+Porphyromonas gingivalis	837	41.91783	Perio	Perio-E12
+Streptococcus australis	113107	41.84185	Perio	Perio-E12
+Atopobium parvulum	1382	41.13867	Perio	Perio-E12
+Lachnoanaerobaculum saburreum	467210	40.0	Perio	Perio-E12
+Prevotella sp. oral taxon 299	652716	30.41124	Perio	Perio-E12
+Prevotella saccharolytica	633701	27.92455	Perio	Perio-E12
+Mycoplasma salivarium	2124	26.61328	Perio	Perio-E12
+Selenomonas flueggei	135080	26.23101	Perio	Perio-E12
+Prevotella veroralis	28137	26.10084	Perio	Perio-E12
+Streptococcus oligofermentans	195041	26.02711	Perio	Perio-E12
+Streptococcus gordonii	1302	26.01536	Perio	Perio-E12
+Fusobacterium sp. oral taxon 370	712288	25.49895	Perio	Perio-E12
+Prevotella multisaccharivorax	310514	25.31503	Perio	Perio-E12
+Prevotella nigrescens	28133	25.10516	Perio	Perio-E12
+Prevotella sp. oral taxon 306	712461	24.24924	Perio	Perio-E12
+Veillonella parvula	29466	24.06644	Perio	Perio-E12
+Leptotrichia goodfellowii	157692	24.04071	Perio	Perio-E12
+Bacteroides pyogenes	310300	23.99373	Perio	Perio-E12
+Capnocytophaga sp. oral taxon 329	706435	23.98811	Perio	Perio-E12
+Actinomyces sp. oral taxon 180	651609	23.32732	Perio	Perio-E12
+Actinomyces timonensis	1288391	23.31791	Perio	Perio-E12
+Filifactor alocis	143361	23.2652	Perio	Perio-E12
+Prevotella baroniae	305719	23.21009	Perio	Perio-E12
+Aggregatibacter aphrophilus	732	22.06626	Perio	Perio-E12
+Prevotella salivae	228604	22.02119	Perio	Perio-E12
+Mycoplasma mycoides	2102	21.53489	Perio	Perio-E12
+Prevotella oris	28135	21.12827	Perio	Perio-E12
+Campylobacter concisus	199	20.85967	Perio	Perio-E12
+Neisseria meningitidis	487	20.0	Perio	Perio-E12
+Abiotrophia defectiva	46125	20.0	Perio	Perio-E12
+Alloprevotella tannerae	76122	20.0	Perio	Perio-E12
+Streptococcus cristatus	45634	20.0	Perio	Perio-E12
+Lachnospiraceae bacterium oral taxon 500	712991	20.0	Perio	Perio-E12
+Alloprevotella rava	671218	20.0	Perio	Perio-E12
+Actinomyces massiliensis	461393	20.0	Perio	Perio-E12
+Selenomonas sp. oral taxon 138	712532	20.0	Perio	Perio-E12
